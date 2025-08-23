@@ -99,8 +99,8 @@
       "placeholder_path": "./photos/Animals/Panda_in_chengdu.placeholder.jpeg"
     },
     {
-      "width": 2360,
-      "height": 1331,
+      "width": 1760,
+      "height": 1760,
       "path": "./photos/Animals/Swan_curled_up.jpeg",
       "compressed_path": "./photos/Animals/Swan_curled_up.min.jpeg",
       "compressed": false,
