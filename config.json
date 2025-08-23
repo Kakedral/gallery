@@ -193,6 +193,14 @@
       "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg"
     },
     {
+      "width": 3120,
+      "height": 1760,
+      "path": "./photos/Travel Photography/DSCF1256.jpg",
+      "compressed_path": "./photos/Travel Photography/DSCF1256.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/DSCF1256.placeholder.jpg"
+    },
+    {
       "width": 3170,
       "height": 3962,
       "path": "./photos/Travel Photography/DSCF5636.jpg",
