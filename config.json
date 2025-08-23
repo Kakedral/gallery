@@ -237,6 +237,14 @@
     {
       "width": 3120,
       "height": 1760,
+      "path": "./photos/Mockups/testd.jpg",
+      "compressed_path": "./photos/Mockups/testd.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mockups/testd.placeholder.jpg"
+    },
+    {
+      "width": 3120,
+      "height": 1760,
       "path": "./photos/Mockups/DSCF9308.jpg",
       "compressed_path": "./photos/Mockups/DSCF9308.min.jpg",
       "compressed": false,
