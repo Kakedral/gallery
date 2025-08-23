@@ -1,4 +1,30 @@
 {
+  "Test": [
+    {
+      "width": 2498,
+      "height": 1409,
+      "path": "./photos/Test/610AC240-46DE-4254-882E-7E1DEFC44FE2.jpeg",
+      "compressed_path": "./photos/Test/610AC240-46DE-4254-882E-7E1DEFC44FE2.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Test/610AC240-46DE-4254-882E-7E1DEFC44FE2.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/Test/6C8E2CAA-DCDF-4AE2-BA75-601B346A85A5_1_102_o.jpeg",
+      "compressed_path": "./photos/Test/6C8E2CAA-DCDF-4AE2-BA75-601B346A85A5_1_102_o.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Test/6C8E2CAA-DCDF-4AE2-BA75-601B346A85A5_1_102_o.placeholder.jpeg"
+    },
+    {
+      "width": 2414,
+      "height": 1304,
+      "path": "./photos/Test/32230A40-4D15-4FAE-97A2-7735E90A8B7D_1_102_o.jpeg",
+      "compressed_path": "./photos/Test/32230A40-4D15-4FAE-97A2-7735E90A8B7D_1_102_o.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Test/32230A40-4D15-4FAE-97A2-7735E90A8B7D_1_102_o.placeholder.jpeg"
+    }
+  ],
   "Landmarks (need to edit)": [
     {
       "width": 3120,
@@ -15,6 +41,16 @@
       "compressed_path": "./photos/Landmarks (need to edit)/DSCF6100.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Landmarks (need to edit)/DSCF6100.placeholder.jpg"
+    }
+  ],
+  "Animals (need to edit)": [
+    {
+      "width": 3120,
+      "height": 1760,
+      "path": "./photos/Animals (need to edit)/DSCF3172.jpg",
+      "compressed_path": "./photos/Animals (need to edit)/DSCF3172.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals (need to edit)/DSCF3172.placeholder.jpg"
     }
   ],
   "People (need to edit)": [
