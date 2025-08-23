@@ -235,28 +235,12 @@
   ],
   "Mockups": [
     {
-      "width": 1440,
-      "height": 2020,
-      "path": "./photos/Mockups/Desktop.png",
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
+      "width": 3120,
+      "height": 1760,
+      "path": "./photos/Mockups/DSCF9308.jpg",
+      "compressed_path": "./photos/Mockups/DSCF9308.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png"
-    },
-    {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/curriculum.png",
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png"
-    },
-    {
-      "width": 1000,
-      "height": 1000,
-      "path": "./photos/Mockups/Frame.png",
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png"
+      "placeholder_path": "./photos/Mockups/DSCF9308.placeholder.jpg"
     },
     {
       "width": 1440,
