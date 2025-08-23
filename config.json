@@ -1,98 +1,120 @@
 {
-  "Test": [
+  "Landmarks": [
+    {
+      "width": 2121,
+      "height": 1760,
+      "path": "./photos/Landmarks/Besseggen.jpeg",
+      "compressed_path": "./photos/Landmarks/Besseggen.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Landmarks/Besseggen.placeholder.jpeg"
+    },
+    {
+      "width": 3120,
+      "height": 1760,
+      "path": "./photos/Landmarks/Galdhopiggen.jpeg",
+      "compressed_path": "./photos/Landmarks/Galdhopiggen.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Landmarks/Galdhopiggen.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1332,
+      "path": "./photos/Landmarks/Trollheimen.jpeg",
+      "compressed_path": "./photos/Landmarks/Trollheimen.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Landmarks/Trollheimen.placeholder.jpeg"
+    }
+  ],
+  "Animals": [
     {
       "width": 2498,
       "height": 1409,
-      "path": "./photos/Test/610AC240-46DE-4254-882E-7E1DEFC44FE2.jpeg",
-      "compressed_path": "./photos/Test/610AC240-46DE-4254-882E-7E1DEFC44FE2.min.jpeg",
+      "path": "./photos/Animals/Ducks_in_snow_and_water.jpeg",
+      "compressed_path": "./photos/Animals/Ducks_in_snow_and_water.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Test/610AC240-46DE-4254-882E-7E1DEFC44FE2.placeholder.jpeg"
+      "placeholder_path": "./photos/Animals/Ducks_in_snow_and_water.placeholder.jpeg"
+    },
+    {
+      "width": 1760,
+      "height": 1760,
+      "path": "./photos/Animals/Dog_in_beitostolen.jpeg",
+      "compressed_path": "./photos/Animals/Dog_in_beitostolen.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/Dog_in_beitostolen.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/Test/6C8E2CAA-DCDF-4AE2-BA75-601B346A85A5_1_102_o.jpeg",
-      "compressed_path": "./photos/Test/6C8E2CAA-DCDF-4AE2-BA75-601B346A85A5_1_102_o.min.jpeg",
+      "path": "./photos/Animals/Swan_curled_up.jpeg",
+      "compressed_path": "./photos/Animals/Swan_curled_up.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Test/6C8E2CAA-DCDF-4AE2-BA75-601B346A85A5_1_102_o.placeholder.jpeg"
+      "placeholder_path": "./photos/Animals/Swan_curled_up.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/Animals/Sheeps_in_trollheimen.jpeg",
+      "compressed_path": "./photos/Animals/Sheeps_in_trollheimen.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/Sheeps_in_trollheimen.placeholder.jpeg"
+    }
+  ],
+  "People": [
+    {
+      "width": 2360,
+      "height": 1332,
+      "path": "./photos/People/Skiers_in_hemsedal.jpeg",
+      "compressed_path": "./photos/People/Skiers_in_hemsedal.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/Skiers_in_hemsedal.placeholder.jpeg"
+    },
+    {
+      "width": 3120,
+      "height": 1760,
+      "path": "./photos/People/Girl_on_galdhopiggen.jpeg",
+      "compressed_path": "./photos/People/Girl_on_galdhopiggen.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/Girl_on_galdhopiggen.placeholder.jpeg"
+    },
+    {
+      "width": 2188,
+      "height": 1436,
+      "path": "./photos/People/Skier_in_beitostolen.jpeg",
+      "compressed_path": "./photos/People/Skier_in_beitostolen.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/Skier_in_beitostolen.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People/Great_sand_dunes_national_park.jpeg",
+      "compressed_path": "./photos/People/Great_sand_dunes_national_park.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/Great_sand_dunes_national_park.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People/Girl_in_trollheimen.jpeg",
+      "compressed_path": "./photos/People/Girl_in_trollheimen.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/Girl_in_trollheimen.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People/Hikers_galdhopiggen_glacier.jpeg",
+      "compressed_path": "./photos/People/Hikers_galdhopiggen_glacier.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/Hikers_galdhopiggen_glacier.placeholder.jpeg"
     },
     {
       "width": 2414,
       "height": 1304,
-      "path": "./photos/Test/32230A40-4D15-4FAE-97A2-7735E90A8B7D_1_102_o.jpeg",
-      "compressed_path": "./photos/Test/32230A40-4D15-4FAE-97A2-7735E90A8B7D_1_102_o.min.jpeg",
+      "path": "./photos/People/Skier_in_lift.jpeg",
+      "compressed_path": "./photos/People/Skier_in_lift.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Test/32230A40-4D15-4FAE-97A2-7735E90A8B7D_1_102_o.placeholder.jpeg"
-    }
-  ],
-  "Landmarks (need to edit)": [
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Landmarks (need to edit)/DSCF1657.jpg",
-      "compressed_path": "./photos/Landmarks (need to edit)/DSCF1657.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks (need to edit)/DSCF1657.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Landmarks (need to edit)/DSCF6100.jpg",
-      "compressed_path": "./photos/Landmarks (need to edit)/DSCF6100.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks (need to edit)/DSCF6100.placeholder.jpg"
-    }
-  ],
-  "Animals (need to edit)": [
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Animals (need to edit)/DSCF3172.jpg",
-      "compressed_path": "./photos/Animals (need to edit)/DSCF3172.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals (need to edit)/DSCF3172.placeholder.jpg"
-    }
-  ],
-  "People (need to edit)": [
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/People (need to edit)/DSCF1856.jpg",
-      "compressed_path": "./photos/People (need to edit)/DSCF1856.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (need to edit)/DSCF1856.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/People (need to edit)/DSCF5257.jpg",
-      "compressed_path": "./photos/People (need to edit)/DSCF5257.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (need to edit)/DSCF5257.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/People (need to edit)/DSCF6995.jpg",
-      "compressed_path": "./photos/People (need to edit)/DSCF6995.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (need to edit)/DSCF6995.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/People (need to edit)/DSCF1734.jpg",
-      "compressed_path": "./photos/People (need to edit)/DSCF1734.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (need to edit)/DSCF1734.placeholder.jpg"
-    },
-    {
-      "width": 1760,
-      "height": 3120,
-      "path": "./photos/People (need to edit)/DSCF1256.jpg",
-      "compressed_path": "./photos/People (need to edit)/DSCF1256.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (need to edit)/DSCF1256.placeholder.jpg"
+      "placeholder_path": "./photos/People/Skier_in_lift.placeholder.jpeg"
     }
   ]
 }
