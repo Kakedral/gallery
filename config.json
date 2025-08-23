@@ -1,174 +1,78 @@
 {
-  "Unsorted": [
+  "Landmarks (need to edit)": [
     {
       "width": 3120,
       "height": 1760,
-      "path": "./photos/Unsorted/DSCF1489.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF1489.min.jpg",
+      "path": "./photos/Landmarks (need to edit)/DSCF1657.jpg",
+      "compressed_path": "./photos/Landmarks (need to edit)/DSCF1657.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF1489.placeholder.jpg"
+      "placeholder_path": "./photos/Landmarks (need to edit)/DSCF1657.placeholder.jpg"
     },
     {
       "width": 3120,
       "height": 1760,
-      "path": "./photos/Unsorted/DSCF1458.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF1458.min.jpg",
+      "path": "./photos/Landmarks (need to edit)/DSCF6100.jpg",
+      "compressed_path": "./photos/Landmarks (need to edit)/DSCF6100.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF1458.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF9204.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF9204.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF9204.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF1856.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF1856.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF1856.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF5713.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF5713.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF5713.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF1950.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF1950.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF1950.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF1943.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF1943.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF1943.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF1229.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF1229.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF1229.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF5257.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF5257.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF5257.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF9308.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF9308.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF9308.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF6995.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF6995.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF6995.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF1544.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF1544.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF1544.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF1734.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF1734.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF1734.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF8934.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF8934.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF8934.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF1657.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF1657.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF1657.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF9632.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF9632.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF9632.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF1939.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF1939.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF1939.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF6100.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF6100.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF6100.placeholder.jpg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/Unsorted/DSCF5958.jpg",
-      "compressed_path": "./photos/Unsorted/DSCF5958.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Unsorted/DSCF5958.placeholder.jpg"
+      "placeholder_path": "./photos/Landmarks (need to edit)/DSCF6100.placeholder.jpg"
     }
   ],
-  "test_compression": [
+  "People (need to edit)": [
     {
       "width": 3120,
       "height": 1760,
-      "path": "./photos/test_compression/test.jpg",
-      "compressed_path": "./photos/test_compression/test.min.jpg",
+      "path": "./photos/People (need to edit)/DSCF1856.jpg",
+      "compressed_path": "./photos/People (need to edit)/DSCF1856.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/test_compression/test.placeholder.jpg"
+      "placeholder_path": "./photos/People (need to edit)/DSCF1856.placeholder.jpg"
     },
     {
       "width": 3120,
       "height": 1760,
-      "path": "./photos/test_compression/DSCF1256.jpg",
-      "compressed_path": "./photos/test_compression/DSCF1256.min.jpg",
+      "path": "./photos/People (need to edit)/DSCF5713.jpg",
+      "compressed_path": "./photos/People (need to edit)/DSCF5713.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/test_compression/DSCF1256.placeholder.jpg"
+      "placeholder_path": "./photos/People (need to edit)/DSCF5713.placeholder.jpg"
+    },
+    {
+      "width": 3120,
+      "height": 1760,
+      "path": "./photos/People (need to edit)/DSCF5257.jpg",
+      "compressed_path": "./photos/People (need to edit)/DSCF5257.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (need to edit)/DSCF5257.placeholder.jpg"
+    },
+    {
+      "width": 3120,
+      "height": 1760,
+      "path": "./photos/People (need to edit)/DSCF9308.jpg",
+      "compressed_path": "./photos/People (need to edit)/DSCF9308.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (need to edit)/DSCF9308.placeholder.jpg"
+    },
+    {
+      "width": 3120,
+      "height": 1760,
+      "path": "./photos/People (need to edit)/DSCF6995.jpg",
+      "compressed_path": "./photos/People (need to edit)/DSCF6995.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (need to edit)/DSCF6995.placeholder.jpg"
+    },
+    {
+      "width": 3120,
+      "height": 1760,
+      "path": "./photos/People (need to edit)/DSCF1734.jpg",
+      "compressed_path": "./photos/People (need to edit)/DSCF1734.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (need to edit)/DSCF1734.placeholder.jpg"
+    },
+    {
+      "width": 3120,
+      "height": 1760,
+      "path": "./photos/People (need to edit)/DSCF1256.jpg",
+      "compressed_path": "./photos/People (need to edit)/DSCF1256.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (need to edit)/DSCF1256.placeholder.jpg"
     }
   ]
 }
