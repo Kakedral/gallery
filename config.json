@@ -1,4 +1,70 @@
 {
+  "Animals": [
+    {
+      "width": 2037,
+      "height": 1420,
+      "path": "./photos/Animals/Penguin_yokohama.jpeg",
+      "compressed_path": "./photos/Animals/Penguin_yokohama.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/Penguin_yokohama.placeholder.jpeg"
+    },
+    {
+      "width": 2186,
+      "height": 1437,
+      "path": "./photos/Animals/Goats_morroco.jpeg",
+      "compressed_path": "./photos/Animals/Goats_morroco.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/Goats_morroco.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/Animals/Parrots_in_barcelona.jpeg",
+      "compressed_path": "./photos/Animals/Parrots_in_barcelona.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/Parrots_in_barcelona.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/Animals/Panda_in_chengdu.jpeg",
+      "compressed_path": "./photos/Animals/Panda_in_chengdu.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/Panda_in_chengdu.placeholder.jpeg"
+    },
+    {
+      "width": 1760,
+      "height": 1760,
+      "path": "./photos/Animals/Frog_in_dam.jpeg",
+      "compressed_path": "./photos/Animals/Frog_in_dam.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/Frog_in_dam.placeholder.jpeg"
+    },
+    {
+      "width": 2240,
+      "height": 1404,
+      "path": "./photos/Animals/Sheep_iceland.jpeg",
+      "compressed_path": "./photos/Animals/Sheep_iceland.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/Sheep_iceland.placeholder.jpeg"
+    },
+    {
+      "width": 2128,
+      "height": 1477,
+      "path": "./photos/Animals/Goat_in_tustna.jpeg",
+      "compressed_path": "./photos/Animals/Goat_in_tustna.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/Goat_in_tustna.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/Animals/Sheeps_in_trollheimen.jpeg",
+      "compressed_path": "./photos/Animals/Sheeps_in_trollheimen.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/Sheeps_in_trollheimen.placeholder.jpeg"
+    }
+  ],
   "Landmarks": [
     {
       "width": 2360,
@@ -297,72 +363,6 @@
       "placeholder_path": "./photos/Landmarks/Shrines_in_japan.placeholder.jpeg"
     }
   ],
-  "Animals": [
-    {
-      "width": 2037,
-      "height": 1420,
-      "path": "./photos/Animals/Penguin_yokohama.jpeg",
-      "compressed_path": "./photos/Animals/Penguin_yokohama.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Penguin_yokohama.placeholder.jpeg"
-    },
-    {
-      "width": 2186,
-      "height": 1437,
-      "path": "./photos/Animals/Goats_morroco.jpeg",
-      "compressed_path": "./photos/Animals/Goats_morroco.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Goats_morroco.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/Animals/Parrots_in_barcelona.jpeg",
-      "compressed_path": "./photos/Animals/Parrots_in_barcelona.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Parrots_in_barcelona.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/Animals/Panda_in_chengdu.jpeg",
-      "compressed_path": "./photos/Animals/Panda_in_chengdu.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Panda_in_chengdu.placeholder.jpeg"
-    },
-    {
-      "width": 1760,
-      "height": 1760,
-      "path": "./photos/Animals/Frog_in_dam.jpeg",
-      "compressed_path": "./photos/Animals/Frog_in_dam.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Frog_in_dam.placeholder.jpeg"
-    },
-    {
-      "width": 2240,
-      "height": 1404,
-      "path": "./photos/Animals/Sheep_iceland.jpeg",
-      "compressed_path": "./photos/Animals/Sheep_iceland.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Sheep_iceland.placeholder.jpeg"
-    },
-    {
-      "width": 2128,
-      "height": 1477,
-      "path": "./photos/Animals/Goat_in_tustna.jpeg",
-      "compressed_path": "./photos/Animals/Goat_in_tustna.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Goat_in_tustna.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/Animals/Sheeps_in_trollheimen.jpeg",
-      "compressed_path": "./photos/Animals/Sheeps_in_trollheimen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Sheeps_in_trollheimen.placeholder.jpeg"
-    }
-  ],
   "People": [
     {
       "width": 2004,
@@ -437,14 +437,6 @@
       "placeholder_path": "./photos/People/Models_in_seoul.placeholder.jpeg"
     },
     {
-      "width": 2076,
-      "height": 1515,
-      "path": "./photos/People/Protestant_berkeley.jpeg",
-      "compressed_path": "./photos/People/Protestant_berkeley.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Protestant_berkeley.placeholder.jpeg"
-    },
-    {
       "width": 1828,
       "height": 1718,
       "path": "./photos/People/Yunnan_tower.jpeg",
@@ -507,14 +499,6 @@
       "compressed_path": "./photos/People/Friend_water.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/People/Friend_water.placeholder.jpeg"
-    },
-    {
-      "width": 1817,
-      "height": 1746,
-      "path": "./photos/People/Surfers_in_munchen.jpeg",
-      "compressed_path": "./photos/People/Surfers_in_munchen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Surfers_in_munchen.placeholder.jpeg"
     },
     {
       "width": 2172,
@@ -875,14 +859,6 @@
       "compressed_path": "./photos/People/Skier_in_lift.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/People/Skier_in_lift.placeholder.jpeg"
-    },
-    {
-      "width": 2166,
-      "height": 1451,
-      "path": "./photos/People/Sister_hiking_iceland.jpeg",
-      "compressed_path": "./photos/People/Sister_hiking_iceland.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Sister_hiking_iceland.placeholder.jpeg"
     },
     {
       "width": 2704,
