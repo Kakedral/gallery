@@ -83,14 +83,6 @@
       "placeholder_path": "./photos/Landmarks/Mountain_in_yosemite.placeholder.jpeg"
     },
     {
-      "width": 1757,
-      "height": 1757,
-      "path": "./photos/Landmarks/Lily_in_garden.jpeg",
-      "compressed_path": "./photos/Landmarks/Lily_in_garden.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Lily_in_garden.placeholder.jpeg"
-    },
-    {
       "width": 2234,
       "height": 1407,
       "path": "./photos/Landmarks/Chongqing_at_night.jpeg",
@@ -131,14 +123,6 @@
       "placeholder_path": "./photos/Landmarks/Lake_by_mt_fuji.placeholder.jpeg"
     },
     {
-      "width": 2028,
-      "height": 1552,
-      "path": "./photos/Landmarks/Train_in_alishan.jpeg",
-      "compressed_path": "./photos/Landmarks/Train_in_alishan.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Train_in_alishan.placeholder.jpeg"
-    },
-    {
       "width": 2134,
       "height": 1472,
       "path": "./photos/Landmarks/Statues_in_nanjing.jpeg",
@@ -169,14 +153,6 @@
       "compressed_path": "./photos/Landmarks/Galdhopiggen.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Landmarks/Galdhopiggen.placeholder.jpeg"
-    },
-    {
-      "width": 2198,
-      "height": 1431,
-      "path": "./photos/Landmarks/Floating_iceberg.jpeg",
-      "compressed_path": "./photos/Landmarks/Floating_iceberg.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Floating_iceberg.placeholder.jpeg"
     },
     {
       "width": 2272,
@@ -217,14 +193,6 @@
       "compressed_path": "./photos/Landmarks/Shanghai_line.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Landmarks/Shanghai_line.placeholder.jpeg"
-    },
-    {
-      "width": 2202,
-      "height": 1428,
-      "path": "./photos/Landmarks/Wine_napa.jpeg",
-      "compressed_path": "./photos/Landmarks/Wine_napa.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Wine_napa.placeholder.jpeg"
     },
     {
       "width": 2570,
@@ -347,15 +315,17 @@
       "placeholder_path": "./photos/Landmarks/Shrines_in_japan.placeholder.jpeg"
     }
   ],
-  "People": [
+  "Misc": [
     {
-      "width": 2004,
-      "height": 1567,
-      "path": "./photos/People/Fishers_in_hualien.jpeg",
-      "compressed_path": "./photos/People/Fishers_in_hualien.min.jpeg",
+      "width": 2128,
+      "height": 1760,
+      "path": "./photos/Misc/Robot_dog_in_chengdu.jpeg",
+      "compressed_path": "./photos/Misc/Robot_dog_in_chengdu.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Fishers_in_hualien.placeholder.jpeg"
-    },
+      "placeholder_path": "./photos/Misc/Robot_dog_in_chengdu.placeholder.jpeg"
+    }
+  ],
+  "People": [
     {
       "width": 2360,
       "height": 1331,
@@ -387,14 +357,6 @@
       "compressed_path": "./photos/People/Swimmers_in_vinpearl.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/People/Swimmers_in_vinpearl.placeholder.jpeg"
-    },
-    {
-      "width": 1826,
-      "height": 1720,
-      "path": "./photos/People/Girl_crossing_in_japan.jpeg",
-      "compressed_path": "./photos/People/Girl_crossing_in_japan.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Girl_crossing_in_japan.placeholder.jpeg"
     },
     {
       "width": 2278,
@@ -477,14 +439,6 @@
       "placeholder_path": "./photos/People/Girl_in_da_nang.placeholder.jpeg"
     },
     {
-      "width": 1976,
-      "height": 1590,
-      "path": "./photos/People/Friend_water.jpeg",
-      "compressed_path": "./photos/People/Friend_water.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Friend_water.placeholder.jpeg"
-    },
-    {
       "width": 2172,
       "height": 1448,
       "path": "./photos/People/Girls_in_nara.jpeg",
@@ -563,14 +517,6 @@
       "compressed_path": "./photos/People/Great_sand_dunes_national_park.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/People/Great_sand_dunes_national_park.placeholder.jpeg"
-    },
-    {
-      "width": 1536,
-      "height": 1677,
-      "path": "./photos/People/Boy_in_toronto.jpeg",
-      "compressed_path": "./photos/People/Boy_in_toronto.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Boy_in_toronto.placeholder.jpeg"
     },
     {
       "width": 2076,
@@ -709,22 +655,6 @@
       "placeholder_path": "./photos/People/Tourists_in_venice.placeholder.jpeg"
     },
     {
-      "width": 2128,
-      "height": 1760,
-      "path": "./photos/People/Robot_dog_in_chengdu.jpeg",
-      "compressed_path": "./photos/People/Robot_dog_in_chengdu.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Robot_dog_in_chengdu.placeholder.jpeg"
-    },
-    {
-      "width": 2264,
-      "height": 1388,
-      "path": "./photos/People/Blossom_in_bergen.jpeg",
-      "compressed_path": "./photos/People/Blossom_in_bergen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Blossom_in_bergen.placeholder.jpeg"
-    },
-    {
       "width": 2068,
       "height": 1519,
       "path": "./photos/People/Flagbearer_in_florence.jpeg",
@@ -795,14 +725,6 @@
       "compressed_path": "./photos/People/Hikers_galdhopiggen_glacier.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/People/Hikers_galdhopiggen_glacier.placeholder.jpeg"
-    },
-    {
-      "width": 1903,
-      "height": 1716,
-      "path": "./photos/People/Girls_on_boat_to_ko_hong.jpeg",
-      "compressed_path": "./photos/People/Girls_on_boat_to_ko_hong.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Girls_on_boat_to_ko_hong.placeholder.jpeg"
     },
     {
       "width": 2270,
@@ -923,6 +845,16 @@
       "compressed_path": "./photos/People/Sisters_sopot.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/People/Sisters_sopot.placeholder.jpeg"
+    }
+  ],
+  "Plants": [
+    {
+      "width": 1757,
+      "height": 1757,
+      "path": "./photos/Plants/Lily_in_garden.jpeg",
+      "compressed_path": "./photos/Plants/Lily_in_garden.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Plants/Lily_in_garden.placeholder.jpeg"
     }
   ]
 }
