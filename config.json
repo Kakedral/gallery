@@ -1,774 +1,758 @@
 {
-  "Animals": [
+  "0 - Animals": [
     {
       "width": 2037,
       "height": 1420,
-      "path": "./photos/Animals/Penguin_yokohama.jpeg",
-      "compressed_path": "./photos/Animals/Penguin_yokohama.min.jpeg",
+      "path": "./photos/0 - Animals/Penguin_yokohama.jpeg",
+      "compressed_path": "./photos/0 - Animals/Penguin_yokohama.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Animals/Penguin_yokohama.placeholder.jpeg"
+      "placeholder_path": "./photos/0 - Animals/Penguin_yokohama.placeholder.jpeg"
     },
     {
       "width": 2186,
       "height": 1437,
-      "path": "./photos/Animals/Goats_morroco.jpeg",
-      "compressed_path": "./photos/Animals/Goats_morroco.min.jpeg",
+      "path": "./photos/0 - Animals/Goats_morroco.jpeg",
+      "compressed_path": "./photos/0 - Animals/Goats_morroco.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Animals/Goats_morroco.placeholder.jpeg"
+      "placeholder_path": "./photos/0 - Animals/Goats_morroco.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/Animals/Parrots_in_barcelona.jpeg",
-      "compressed_path": "./photos/Animals/Parrots_in_barcelona.min.jpeg",
+      "path": "./photos/0 - Animals/Parrots_in_barcelona.jpeg",
+      "compressed_path": "./photos/0 - Animals/Parrots_in_barcelona.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Animals/Parrots_in_barcelona.placeholder.jpeg"
+      "placeholder_path": "./photos/0 - Animals/Parrots_in_barcelona.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/Animals/Panda_in_chengdu.jpeg",
-      "compressed_path": "./photos/Animals/Panda_in_chengdu.min.jpeg",
+      "path": "./photos/0 - Animals/Panda_in_chengdu.jpeg",
+      "compressed_path": "./photos/0 - Animals/Panda_in_chengdu.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Animals/Panda_in_chengdu.placeholder.jpeg"
+      "placeholder_path": "./photos/0 - Animals/Panda_in_chengdu.placeholder.jpeg"
     },
     {
       "width": 1760,
       "height": 1760,
-      "path": "./photos/Animals/Frog_in_dam.jpeg",
-      "compressed_path": "./photos/Animals/Frog_in_dam.min.jpeg",
+      "path": "./photos/0 - Animals/Frog_in_dam.jpeg",
+      "compressed_path": "./photos/0 - Animals/Frog_in_dam.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Animals/Frog_in_dam.placeholder.jpeg"
+      "placeholder_path": "./photos/0 - Animals/Frog_in_dam.placeholder.jpeg"
     },
     {
       "width": 2240,
       "height": 1404,
-      "path": "./photos/Animals/Sheep_iceland.jpeg",
-      "compressed_path": "./photos/Animals/Sheep_iceland.min.jpeg",
+      "path": "./photos/0 - Animals/Sheep_iceland.jpeg",
+      "compressed_path": "./photos/0 - Animals/Sheep_iceland.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Animals/Sheep_iceland.placeholder.jpeg"
+      "placeholder_path": "./photos/0 - Animals/Sheep_iceland.placeholder.jpeg"
     },
     {
       "width": 2128,
       "height": 1477,
-      "path": "./photos/Animals/Goat_in_tustna.jpeg",
-      "compressed_path": "./photos/Animals/Goat_in_tustna.min.jpeg",
+      "path": "./photos/0 - Animals/Goat_in_tustna.jpeg",
+      "compressed_path": "./photos/0 - Animals/Goat_in_tustna.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Animals/Goat_in_tustna.placeholder.jpeg"
+      "placeholder_path": "./photos/0 - Animals/Goat_in_tustna.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/Animals/Sheeps_in_trollheimen.jpeg",
-      "compressed_path": "./photos/Animals/Sheeps_in_trollheimen.min.jpeg",
+      "path": "./photos/0 - Animals/Sheeps_in_trollheimen.jpeg",
+      "compressed_path": "./photos/0 - Animals/Sheeps_in_trollheimen.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Animals/Sheeps_in_trollheimen.placeholder.jpeg"
+      "placeholder_path": "./photos/0 - Animals/Sheeps_in_trollheimen.placeholder.jpeg"
     }
   ],
-  "Landmarks": [
+  "1 - Landmarks": [
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/Landmarks/Path_in_gaztelugatxe.jpeg",
-      "compressed_path": "./photos/Landmarks/Path_in_gaztelugatxe.min.jpeg",
+      "path": "./photos/1 - Landmarks/Path_in_gaztelugatxe.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Path_in_gaztelugatxe.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Path_in_gaztelugatxe.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Path_in_gaztelugatxe.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/Landmarks/Temple_in_nanjing.jpeg",
-      "compressed_path": "./photos/Landmarks/Temple_in_nanjing.min.jpeg",
+      "path": "./photos/1 - Landmarks/Temple_in_nanjing.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Temple_in_nanjing.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Temple_in_nanjing.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Temple_in_nanjing.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/Landmarks/Waves_in_donostia.jpeg",
-      "compressed_path": "./photos/Landmarks/Waves_in_donostia.min.jpeg",
+      "path": "./photos/1 - Landmarks/Waves_in_donostia.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Waves_in_donostia.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Waves_in_donostia.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Waves_in_donostia.placeholder.jpeg"
     },
     {
       "width": 2324,
       "height": 1352,
-      "path": "./photos/Landmarks/Lake_by_mt_fuji.jpeg",
-      "compressed_path": "./photos/Landmarks/Lake_by_mt_fuji.min.jpeg",
+      "path": "./photos/1 - Landmarks/Lake_by_mt_fuji.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Lake_by_mt_fuji.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Lake_by_mt_fuji.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Lake_by_mt_fuji.placeholder.jpeg"
     },
     {
       "width": 2134,
       "height": 1472,
-      "path": "./photos/Landmarks/Statues_in_nanjing.jpeg",
-      "compressed_path": "./photos/Landmarks/Statues_in_nanjing.min.jpeg",
+      "path": "./photos/1 - Landmarks/Statues_in_nanjing.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Statues_in_nanjing.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Statues_in_nanjing.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Statues_in_nanjing.placeholder.jpeg"
     },
     {
       "width": 2464,
       "height": 1275,
-      "path": "./photos/Landmarks/Lights_during_skiing.jpeg",
-      "compressed_path": "./photos/Landmarks/Lights_during_skiing.min.jpeg",
+      "path": "./photos/1 - Landmarks/Lights_during_skiing.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Lights_during_skiing.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Lights_during_skiing.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Lights_during_skiing.placeholder.jpeg"
     },
     {
       "width": 2371,
       "height": 1391,
-      "path": "./photos/Landmarks/Wind_farms_belgium.jpeg",
-      "compressed_path": "./photos/Landmarks/Wind_farms_belgium.min.jpeg",
+      "path": "./photos/1 - Landmarks/Wind_farms_belgium.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Wind_farms_belgium.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Wind_farms_belgium.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Wind_farms_belgium.placeholder.jpeg"
     },
     {
       "width": 3120,
       "height": 1760,
-      "path": "./photos/Landmarks/Galdhopiggen.jpeg",
-      "compressed_path": "./photos/Landmarks/Galdhopiggen.min.jpeg",
+      "path": "./photos/1 - Landmarks/Galdhopiggen.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Galdhopiggen.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Galdhopiggen.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Galdhopiggen.placeholder.jpeg"
     },
     {
       "width": 2272,
       "height": 1635,
-      "path": "./photos/Landmarks/Baloon_in_ostende.jpeg",
-      "compressed_path": "./photos/Landmarks/Baloon_in_ostende.min.jpeg",
+      "path": "./photos/1 - Landmarks/Baloon_in_ostende.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Baloon_in_ostende.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Baloon_in_ostende.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Baloon_in_ostende.placeholder.jpeg"
     },
     {
       "width": 2072,
       "height": 1515,
-      "path": "./photos/Landmarks/Statue_in_dazu.jpeg",
-      "compressed_path": "./photos/Landmarks/Statue_in_dazu.min.jpeg",
+      "path": "./photos/1 - Landmarks/Statue_in_dazu.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Statue_in_dazu.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Statue_in_dazu.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Statue_in_dazu.placeholder.jpeg"
     },
     {
       "width": 1740,
       "height": 1740,
-      "path": "./photos/Landmarks/Bologna_hole.jpeg",
-      "compressed_path": "./photos/Landmarks/Bologna_hole.min.jpeg",
+      "path": "./photos/1 - Landmarks/Bologna_hole.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Bologna_hole.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Bologna_hole.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Bologna_hole.placeholder.jpeg"
     },
     {
       "width": 2102,
       "height": 1496,
-      "path": "./photos/Landmarks/Chongqing_train.jpeg",
-      "compressed_path": "./photos/Landmarks/Chongqing_train.min.jpeg",
+      "path": "./photos/1 - Landmarks/Chongqing_train.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Chongqing_train.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Chongqing_train.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Chongqing_train.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/Landmarks/Shanghai_line.jpeg",
-      "compressed_path": "./photos/Landmarks/Shanghai_line.min.jpeg",
+      "path": "./photos/1 - Landmarks/Shanghai_line.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Shanghai_line.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Shanghai_line.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Shanghai_line.placeholder.jpeg"
     },
     {
       "width": 2570,
       "height": 1223,
-      "path": "./photos/Landmarks/Islands_near_tustna.jpeg",
-      "compressed_path": "./photos/Landmarks/Islands_near_tustna.min.jpeg",
+      "path": "./photos/1 - Landmarks/Islands_near_tustna.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Islands_near_tustna.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Islands_near_tustna.placeholder.jpeg"
-    },
-    {
-      "width": 1996,
-      "height": 1575,
-      "path": "./photos/Landmarks/Church_iceland.jpeg",
-      "compressed_path": "./photos/Landmarks/Church_iceland.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Church_iceland.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Islands_near_tustna.placeholder.jpeg"
     },
     {
       "width": 2208,
       "height": 1423,
-      "path": "./photos/Landmarks/Stavanger_city_centre.jpeg",
-      "compressed_path": "./photos/Landmarks/Stavanger_city_centre.min.jpeg",
+      "path": "./photos/1 - Landmarks/Stavanger_city_centre.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Stavanger_city_centre.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Stavanger_city_centre.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Stavanger_city_centre.placeholder.jpeg"
     },
     {
       "width": 2050,
       "height": 1534,
-      "path": "./photos/Landmarks/Ko_hong.jpeg",
-      "compressed_path": "./photos/Landmarks/Ko_hong.min.jpeg",
+      "path": "./photos/1 - Landmarks/Ko_hong.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Ko_hong.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Ko_hong.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Ko_hong.placeholder.jpeg"
     },
     {
       "width": 2326,
       "height": 1351,
-      "path": "./photos/Landmarks/Pond_in_nha_trang.jpeg",
-      "compressed_path": "./photos/Landmarks/Pond_in_nha_trang.min.jpeg",
+      "path": "./photos/1 - Landmarks/Pond_in_nha_trang.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Pond_in_nha_trang.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Pond_in_nha_trang.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Pond_in_nha_trang.placeholder.jpeg"
     },
     {
       "width": 2368,
       "height": 1328,
-      "path": "./photos/Landmarks/Napa_wines.jpeg",
-      "compressed_path": "./photos/Landmarks/Napa_wines.min.jpeg",
+      "path": "./photos/1 - Landmarks/Napa_wines.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Napa_wines.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Napa_wines.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Napa_wines.placeholder.jpeg"
     },
     {
       "width": 2933,
       "height": 1258,
-      "path": "./photos/Landmarks/Tower_in_pisa.jpeg",
-      "compressed_path": "./photos/Landmarks/Tower_in_pisa.min.jpeg",
+      "path": "./photos/1 - Landmarks/Tower_in_pisa.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Tower_in_pisa.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Tower_in_pisa.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Tower_in_pisa.placeholder.jpeg"
     },
     {
       "width": 1897,
       "height": 1744,
-      "path": "./photos/Landmarks/Statue_in_nanjing.jpeg",
-      "compressed_path": "./photos/Landmarks/Statue_in_nanjing.min.jpeg",
+      "path": "./photos/1 - Landmarks/Statue_in_nanjing.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Statue_in_nanjing.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Statue_in_nanjing.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Statue_in_nanjing.placeholder.jpeg"
     },
     {
       "width": 2274,
       "height": 1383,
-      "path": "./photos/Landmarks/Statues_italy.jpeg",
-      "compressed_path": "./photos/Landmarks/Statues_italy.min.jpeg",
+      "path": "./photos/1 - Landmarks/Statues_italy.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Statues_italy.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Statues_italy.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Statues_italy.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1332,
-      "path": "./photos/Landmarks/Trollheimen.jpeg",
-      "compressed_path": "./photos/Landmarks/Trollheimen.min.jpeg",
+      "path": "./photos/1 - Landmarks/Trollheimen.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Trollheimen.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Trollheimen.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Trollheimen.placeholder.jpeg"
     },
     {
       "width": 1711,
       "height": 2160,
-      "path": "./photos/Landmarks/Temple_in_nanjing_with_monk_statue.jpeg",
-      "compressed_path": "./photos/Landmarks/Temple_in_nanjing_with_monk_statue.min.jpeg",
+      "path": "./photos/1 - Landmarks/Temple_in_nanjing_with_monk_statue.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Temple_in_nanjing_with_monk_statue.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Temple_in_nanjing_with_monk_statue.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Temple_in_nanjing_with_monk_statue.placeholder.jpeg"
     },
     {
       "width": 2058,
       "height": 1528,
-      "path": "./photos/Landmarks/Water_in_nanjing.jpeg",
-      "compressed_path": "./photos/Landmarks/Water_in_nanjing.min.jpeg",
+      "path": "./photos/1 - Landmarks/Water_in_nanjing.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Water_in_nanjing.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Water_in_nanjing.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Water_in_nanjing.placeholder.jpeg"
     },
     {
       "width": 2264,
       "height": 1388,
-      "path": "./photos/Landmarks/Statue_in_italy.jpeg",
-      "compressed_path": "./photos/Landmarks/Statue_in_italy.min.jpeg",
+      "path": "./photos/1 - Landmarks/Statue_in_italy.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Statue_in_italy.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Statue_in_italy.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Statue_in_italy.placeholder.jpeg"
     },
     {
       "width": 2052,
       "height": 1531,
-      "path": "./photos/Landmarks/Bohol_mountains.jpeg",
-      "compressed_path": "./photos/Landmarks/Bohol_mountains.min.jpeg",
+      "path": "./photos/1 - Landmarks/Bohol_mountains.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Bohol_mountains.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Bohol_mountains.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Bohol_mountains.placeholder.jpeg"
     },
     {
       "width": 2272,
       "height": 1383,
-      "path": "./photos/Landmarks/Shrines_in_japan.jpeg",
-      "compressed_path": "./photos/Landmarks/Shrines_in_japan.min.jpeg",
+      "path": "./photos/1 - Landmarks/Shrines_in_japan.jpeg",
+      "compressed_path": "./photos/1 - Landmarks/Shrines_in_japan.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Shrines_in_japan.placeholder.jpeg"
+      "placeholder_path": "./photos/1 - Landmarks/Shrines_in_japan.placeholder.jpeg"
     }
   ],
-  "Misc": [
-    {
-      "width": 2128,
-      "height": 1760,
-      "path": "./photos/Misc/Robot_dog_in_chengdu.jpeg",
-      "compressed_path": "./photos/Misc/Robot_dog_in_chengdu.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Misc/Robot_dog_in_chengdu.placeholder.jpeg"
-    }
-  ],
-  "People (background)": [
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People (background)/Swimmers_in_iceland.jpeg",
-      "compressed_path": "./photos/People (background)/Swimmers_in_iceland.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Swimmers_in_iceland.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People (background)/Swimmers_in_vinpearl.jpeg",
-      "compressed_path": "./photos/People (background)/Swimmers_in_vinpearl.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Swimmers_in_vinpearl.placeholder.jpeg"
-    },
-    {
-      "width": 2362,
-      "height": 1329,
-      "path": "./photos/People (background)/Munch_museum_oslo.jpeg",
-      "compressed_path": "./photos/People (background)/Munch_museum_oslo.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Munch_museum_oslo.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1332,
-      "path": "./photos/People (background)/Skiers_in_hemsedal.jpeg",
-      "compressed_path": "./photos/People (background)/Skiers_in_hemsedal.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Skiers_in_hemsedal.placeholder.jpeg"
-    },
-    {
-      "width": 2324,
-      "height": 1353,
-      "path": "./photos/People (background)/Swimmers_in_oslo.jpeg",
-      "compressed_path": "./photos/People (background)/Swimmers_in_oslo.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Swimmers_in_oslo.placeholder.jpeg"
-    },
-    {
-      "width": 2250,
-      "height": 1397,
-      "path": "./photos/People (background)/Skiiers.jpeg",
-      "compressed_path": "./photos/People (background)/Skiiers.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Skiiers.placeholder.jpeg"
-    },
-    {
-      "width": 2298,
-      "height": 1367,
-      "path": "./photos/People (background)/Musicians_in_bilbao.jpeg",
-      "compressed_path": "./photos/People (background)/Musicians_in_bilbao.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Musicians_in_bilbao.placeholder.jpeg"
-    },
-    {
-      "width": 2370,
-      "height": 1326,
-      "path": "./photos/People (background)/People_toronto_library.jpeg",
-      "compressed_path": "./photos/People (background)/People_toronto_library.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/People_toronto_library.placeholder.jpeg"
-    },
-    {
-      "width": 2100,
-      "height": 1496,
-      "path": "./photos/People (background)/Police_in_london.jpeg",
-      "compressed_path": "./photos/People (background)/Police_in_london.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Police_in_london.placeholder.jpeg"
-    },
-    {
-      "width": 2322,
-      "height": 1354,
-      "path": "./photos/People (background)/Seller_in_seoul.jpeg",
-      "compressed_path": "./photos/People (background)/Seller_in_seoul.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Seller_in_seoul.placeholder.jpeg"
-    },
-    {
-      "width": 2250,
-      "height": 1398,
-      "path": "./photos/People (background)/People_in_bilbao.jpeg",
-      "compressed_path": "./photos/People (background)/People_in_bilbao.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/People_in_bilbao.placeholder.jpeg"
-    },
-    {
-      "width": 2172,
-      "height": 1448,
-      "path": "./photos/People (background)/Band_album.jpeg",
-      "compressed_path": "./photos/People (background)/Band_album.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Band_album.placeholder.jpeg"
-    },
-    {
-      "width": 2256,
-      "height": 1394,
-      "path": "./photos/People (background)/Tourists_in_venice.jpeg",
-      "compressed_path": "./photos/People (background)/Tourists_in_venice.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Tourists_in_venice.placeholder.jpeg"
-    },
-    {
-      "width": 2404,
-      "height": 1307,
-      "path": "./photos/People (background)/Tourist_in_blue_lagoon.jpeg",
-      "compressed_path": "./photos/People (background)/Tourist_in_blue_lagoon.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Tourist_in_blue_lagoon.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People (background)/Hikers_galdhopiggen_glacier.jpeg",
-      "compressed_path": "./photos/People (background)/Hikers_galdhopiggen_glacier.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Hikers_galdhopiggen_glacier.placeholder.jpeg"
-    },
-    {
-      "width": 1822,
-      "height": 1724,
-      "path": "./photos/People (background)/People_in_kyoto.jpeg",
-      "compressed_path": "./photos/People (background)/People_in_kyoto.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/People_in_kyoto.placeholder.jpeg"
-    },
-    {
-      "width": 2104,
-      "height": 1495,
-      "path": "./photos/People (background)/Window_in_oslo.jpeg",
-      "compressed_path": "./photos/People (background)/Window_in_oslo.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Window_in_oslo.placeholder.jpeg"
-    }
-  ],
-  "People (focus)": [
+  "2 - People (focus)": [
     {
       "width": 2002,
       "height": 1568,
-      "path": "./photos/People (focus)/Womens_in_kyoto.jpeg",
-      "compressed_path": "./photos/People (focus)/Womens_in_kyoto.min.jpeg",
+      "path": "./photos/2 - People (focus)/Womens_in_kyoto.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Womens_in_kyoto.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Womens_in_kyoto.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Womens_in_kyoto.placeholder.jpeg"
     },
     {
       "width": 1866,
       "height": 1709,
-      "path": "./photos/People (focus)/People_in_bruges.jpeg",
-      "compressed_path": "./photos/People (focus)/People_in_bruges.min.jpeg",
+      "path": "./photos/2 - People (focus)/People_in_bruges.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/People_in_bruges.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/People_in_bruges.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/People_in_bruges.placeholder.jpeg"
     },
     {
       "width": 2278,
       "height": 1379,
-      "path": "./photos/People (focus)/Sister_iceland_mountain.jpeg",
-      "compressed_path": "./photos/People (focus)/Sister_iceland_mountain.min.jpeg",
+      "path": "./photos/2 - People (focus)/Sister_iceland_mountain.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Sister_iceland_mountain.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Sister_iceland_mountain.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Sister_iceland_mountain.placeholder.jpeg"
     },
     {
       "width": 2339,
       "height": 1510,
-      "path": "./photos/People (focus)/Man_in_donostia.jpeg",
-      "compressed_path": "./photos/People (focus)/Man_in_donostia.min.jpeg",
+      "path": "./photos/2 - People (focus)/Man_in_donostia.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Man_in_donostia.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Man_in_donostia.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Man_in_donostia.placeholder.jpeg"
     },
     {
       "width": 2114,
       "height": 1486,
-      "path": "./photos/People (focus)/Models_in_seoul.jpeg",
-      "compressed_path": "./photos/People (focus)/Models_in_seoul.min.jpeg",
+      "path": "./photos/2 - People (focus)/Models_in_seoul.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Models_in_seoul.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Models_in_seoul.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Models_in_seoul.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/People (focus)/Womens_in_sand_dune_national_park.jpeg",
-      "compressed_path": "./photos/People (focus)/Womens_in_sand_dune_national_park.min.jpeg",
+      "path": "./photos/2 - People (focus)/Womens_in_sand_dune_national_park.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Womens_in_sand_dune_national_park.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Womens_in_sand_dune_national_park.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Womens_in_sand_dune_national_park.placeholder.jpeg"
     },
     {
       "width": 2078,
       "height": 1512,
-      "path": "./photos/People (focus)/Women_in_iceland.jpeg",
-      "compressed_path": "./photos/People (focus)/Women_in_iceland.min.jpeg",
+      "path": "./photos/2 - People (focus)/Women_in_iceland.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Women_in_iceland.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Women_in_iceland.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Women_in_iceland.placeholder.jpeg"
     },
     {
       "width": 3120,
       "height": 1760,
-      "path": "./photos/People (focus)/Girl_on_galdhopiggen.jpeg",
-      "compressed_path": "./photos/People (focus)/Girl_on_galdhopiggen.min.jpeg",
+      "path": "./photos/2 - People (focus)/Girl_on_galdhopiggen.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Girl_on_galdhopiggen.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Girl_on_galdhopiggen.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Girl_on_galdhopiggen.placeholder.jpeg"
     },
     {
       "width": 2040,
       "height": 1540,
-      "path": "./photos/People (focus)/Girl_in_da_nang.jpeg",
-      "compressed_path": "./photos/People (focus)/Girl_in_da_nang.min.jpeg",
+      "path": "./photos/2 - People (focus)/Girl_in_da_nang.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Girl_in_da_nang.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Girl_in_da_nang.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Girl_in_da_nang.placeholder.jpeg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/People (focus)/Girls_in_nara.jpeg",
-      "compressed_path": "./photos/People (focus)/Girls_in_nara.min.jpeg",
+      "path": "./photos/2 - People (focus)/Girls_in_nara.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Girls_in_nara.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Girls_in_nara.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People (focus)/Artists_in_trondheim.jpeg",
-      "compressed_path": "./photos/People (focus)/Artists_in_trondheim.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Artists_in_trondheim.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Girls_in_nara.placeholder.jpeg"
     },
     {
       "width": 2336,
       "height": 1346,
-      "path": "./photos/People (focus)/Couple_in_dinant.jpeg",
-      "compressed_path": "./photos/People (focus)/Couple_in_dinant.min.jpeg",
+      "path": "./photos/2 - People (focus)/Couple_in_dinant.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Couple_in_dinant.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Couple_in_dinant.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Couple_in_dinant.placeholder.jpeg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/People (focus)/Man_hakone.jpeg",
-      "compressed_path": "./photos/People (focus)/Man_hakone.min.jpeg",
+      "path": "./photos/2 - People (focus)/Man_hakone.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Man_hakone.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Man_hakone.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Man_hakone.placeholder.jpeg"
     },
     {
       "width": 2222,
       "height": 1413,
-      "path": "./photos/People (focus)/Women_in_seoul.jpeg",
-      "compressed_path": "./photos/People (focus)/Women_in_seoul.min.jpeg",
+      "path": "./photos/2 - People (focus)/Women_in_seoul.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Women_in_seoul.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Women_in_seoul.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Women_in_seoul.placeholder.jpeg"
     },
     {
       "width": 1273,
       "height": 2470,
-      "path": "./photos/People (focus)/Monk_in_bangkok.jpeg",
-      "compressed_path": "./photos/People (focus)/Monk_in_bangkok.min.jpeg",
+      "path": "./photos/2 - People (focus)/Monk_in_bangkok.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Monk_in_bangkok.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Monk_in_bangkok.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Monk_in_bangkok.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/People (focus)/Great_sand_dunes_national_park.jpeg",
-      "compressed_path": "./photos/People (focus)/Great_sand_dunes_national_park.min.jpeg",
+      "path": "./photos/2 - People (focus)/Great_sand_dunes_national_park.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Great_sand_dunes_national_park.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Great_sand_dunes_national_park.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Great_sand_dunes_national_park.placeholder.jpeg"
     },
     {
       "width": 2076,
       "height": 1514,
-      "path": "./photos/People (focus)/Sellers_in_hoi_an.jpeg",
-      "compressed_path": "./photos/People (focus)/Sellers_in_hoi_an.min.jpeg",
+      "path": "./photos/2 - People (focus)/Sellers_in_hoi_an.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Sellers_in_hoi_an.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Sellers_in_hoi_an.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Sellers_in_hoi_an.placeholder.jpeg"
     },
     {
       "width": 2510,
       "height": 1253,
-      "path": "./photos/People (focus)/Man_in_dusseldorf.jpeg",
-      "compressed_path": "./photos/People (focus)/Man_in_dusseldorf.min.jpeg",
+      "path": "./photos/2 - People (focus)/Man_in_dusseldorf.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Man_in_dusseldorf.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Man_in_dusseldorf.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Man_in_dusseldorf.placeholder.jpeg"
     },
     {
       "width": 1998,
       "height": 1571,
-      "path": "./photos/People (focus)/dog_walker.jpeg",
-      "compressed_path": "./photos/People (focus)/dog_walker.min.jpeg",
+      "path": "./photos/2 - People (focus)/dog_walker.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/dog_walker.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/dog_walker.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/dog_walker.placeholder.jpeg"
     },
     {
       "width": 2306,
       "height": 1364,
-      "path": "./photos/People (focus)/Womens_in_chongqing.jpeg",
-      "compressed_path": "./photos/People (focus)/Womens_in_chongqing.min.jpeg",
+      "path": "./photos/2 - People (focus)/Womens_in_chongqing.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Womens_in_chongqing.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Womens_in_chongqing.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Womens_in_chongqing.placeholder.jpeg"
     },
     {
       "width": 2122,
       "height": 1481,
-      "path": "./photos/People (focus)/Man_in_iceland.jpeg",
-      "compressed_path": "./photos/People (focus)/Man_in_iceland.min.jpeg",
+      "path": "./photos/2 - People (focus)/Man_in_iceland.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Man_in_iceland.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Man_in_iceland.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Man_in_iceland.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/People (focus)/Girl_in_trollheimen.jpeg",
-      "compressed_path": "./photos/People (focus)/Girl_in_trollheimen.min.jpeg",
+      "path": "./photos/2 - People (focus)/Girl_in_trollheimen.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Girl_in_trollheimen.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Girl_in_trollheimen.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Girl_in_trollheimen.placeholder.jpeg"
     },
     {
       "width": 2093,
       "height": 1680,
-      "path": "./photos/People (focus)/Family_in_da_nang.jpeg",
-      "compressed_path": "./photos/People (focus)/Family_in_da_nang.min.jpeg",
+      "path": "./photos/2 - People (focus)/Family_in_da_nang.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Family_in_da_nang.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Family_in_da_nang.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Family_in_da_nang.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/People (focus)/Girl_in_dazu.jpeg",
-      "compressed_path": "./photos/People (focus)/Girl_in_dazu.min.jpeg",
+      "path": "./photos/2 - People (focus)/Girl_in_dazu.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Girl_in_dazu.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Girl_in_dazu.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Girl_in_dazu.placeholder.jpeg"
     },
     {
       "width": 2068,
       "height": 1519,
-      "path": "./photos/People (focus)/Flagbearer_in_florence.jpeg",
-      "compressed_path": "./photos/People (focus)/Flagbearer_in_florence.min.jpeg",
+      "path": "./photos/2 - People (focus)/Flagbearer_in_florence.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Flagbearer_in_florence.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Flagbearer_in_florence.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Flagbearer_in_florence.placeholder.jpeg"
     },
     {
       "width": 2020,
       "height": 1555,
-      "path": "./photos/People (focus)/Man_in_olson.jpeg",
-      "compressed_path": "./photos/People (focus)/Man_in_olson.min.jpeg",
+      "path": "./photos/2 - People (focus)/Man_in_olson.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Man_in_olson.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Man_in_olson.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Man_in_olson.placeholder.jpeg"
     },
     {
       "width": 2660,
       "height": 1182,
-      "path": "./photos/People (focus)/People_in_redwood_national_park.jpeg",
-      "compressed_path": "./photos/People (focus)/People_in_redwood_national_park.min.jpeg",
+      "path": "./photos/2 - People (focus)/People_in_redwood_national_park.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/People_in_redwood_national_park.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/People_in_redwood_national_park.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/People_in_redwood_national_park.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/People (focus)/Men_in_chengdu.jpeg",
-      "compressed_path": "./photos/People (focus)/Men_in_chengdu.min.jpeg",
+      "path": "./photos/2 - People (focus)/Men_in_chengdu.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Men_in_chengdu.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Men_in_chengdu.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Men_in_chengdu.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/People (focus)/Man_japan_temple.jpeg",
-      "compressed_path": "./photos/People (focus)/Man_japan_temple.min.jpeg",
+      "path": "./photos/2 - People (focus)/Man_japan_temple.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Man_japan_temple.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Man_japan_temple.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Man_japan_temple.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/People (focus)/Woman_in_oslo_library.jpeg",
-      "compressed_path": "./photos/People (focus)/Woman_in_oslo_library.min.jpeg",
+      "path": "./photos/2 - People (focus)/Woman_in_oslo_library.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Woman_in_oslo_library.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Woman_in_oslo_library.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Woman_in_oslo_library.placeholder.jpeg"
     },
     {
       "width": 2170,
       "height": 1448,
-      "path": "./photos/People (focus)/Sailors_in_florence.jpeg",
-      "compressed_path": "./photos/People (focus)/Sailors_in_florence.min.jpeg",
+      "path": "./photos/2 - People (focus)/Sailors_in_florence.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Sailors_in_florence.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Sailors_in_florence.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Sailors_in_florence.placeholder.jpeg"
     },
     {
       "width": 2270,
       "height": 1383,
-      "path": "./photos/People (focus)/Sisters_in_venice.jpeg",
-      "compressed_path": "./photos/People (focus)/Sisters_in_venice.min.jpeg",
+      "path": "./photos/2 - People (focus)/Sisters_in_venice.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Sisters_in_venice.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Sisters_in_venice.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Sisters_in_venice.placeholder.jpeg"
     },
     {
       "width": 2016,
       "height": 1560,
-      "path": "./photos/People (focus)/Men_in_san_francisco.jpeg",
-      "compressed_path": "./photos/People (focus)/Men_in_san_francisco.min.jpeg",
+      "path": "./photos/2 - People (focus)/Men_in_san_francisco.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Men_in_san_francisco.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Men_in_san_francisco.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Men_in_san_francisco.placeholder.jpeg"
     },
     {
       "width": 2414,
       "height": 1304,
-      "path": "./photos/People (focus)/Skier_in_lift.jpeg",
-      "compressed_path": "./photos/People (focus)/Skier_in_lift.min.jpeg",
+      "path": "./photos/2 - People (focus)/Skier_in_lift.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Skier_in_lift.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Skier_in_lift.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Skier_in_lift.placeholder.jpeg"
     },
     {
       "width": 2268,
       "height": 1385,
-      "path": "./photos/People (focus)/Painter_san_francisco.jpeg",
-      "compressed_path": "./photos/People (focus)/Painter_san_francisco.min.jpeg",
+      "path": "./photos/2 - People (focus)/Painter_san_francisco.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Painter_san_francisco.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Painter_san_francisco.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Painter_san_francisco.placeholder.jpeg"
     },
     {
       "width": 2234,
       "height": 1408,
-      "path": "./photos/People (focus)/Singer_san_francisco.jpeg",
-      "compressed_path": "./photos/People (focus)/Singer_san_francisco.min.jpeg",
+      "path": "./photos/2 - People (focus)/Singer_san_francisco.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Singer_san_francisco.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Singer_san_francisco.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Singer_san_francisco.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/People (focus)/People_on_rock_pinnacles_park.jpeg",
-      "compressed_path": "./photos/People (focus)/People_on_rock_pinnacles_park.min.jpeg",
+      "path": "./photos/2 - People (focus)/People_on_rock_pinnacles_park.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/People_on_rock_pinnacles_park.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/People_on_rock_pinnacles_park.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/People_on_rock_pinnacles_park.placeholder.jpeg"
     },
     {
       "width": 1941,
       "height": 1465,
-      "path": "./photos/People (focus)/Footballer_in_ainsa.jpeg",
-      "compressed_path": "./photos/People (focus)/Footballer_in_ainsa.min.jpeg",
+      "path": "./photos/2 - People (focus)/Footballer_in_ainsa.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Footballer_in_ainsa.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Footballer_in_ainsa.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Footballer_in_ainsa.placeholder.jpeg"
     },
     {
       "width": 2240,
       "height": 1405,
-      "path": "./photos/People (focus)/Women_in_hue.jpeg",
-      "compressed_path": "./photos/People (focus)/Women_in_hue.min.jpeg",
+      "path": "./photos/2 - People (focus)/Women_in_hue.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Women_in_hue.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Women_in_hue.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Women_in_hue.placeholder.jpeg"
     },
     {
       "width": 2240,
       "height": 1404,
-      "path": "./photos/People (focus)/Sisters_in_krabi.jpeg",
-      "compressed_path": "./photos/People (focus)/Sisters_in_krabi.min.jpeg",
+      "path": "./photos/2 - People (focus)/Sisters_in_krabi.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Sisters_in_krabi.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Sisters_in_krabi.placeholder.jpeg"
+      "placeholder_path": "./photos/2 - People (focus)/Sisters_in_krabi.placeholder.jpeg"
     }
   ],
-  "Plants": [
+  "3 - People (background)": [
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/3 - People (background)/Swimmers_in_iceland.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Swimmers_in_iceland.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Swimmers_in_iceland.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/3 - People (background)/Swimmers_in_vinpearl.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Swimmers_in_vinpearl.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Swimmers_in_vinpearl.placeholder.jpeg"
+    },
+    {
+      "width": 2362,
+      "height": 1329,
+      "path": "./photos/3 - People (background)/Munch_museum_oslo.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Munch_museum_oslo.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Munch_museum_oslo.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1332,
+      "path": "./photos/3 - People (background)/Skiers_in_hemsedal.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Skiers_in_hemsedal.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Skiers_in_hemsedal.placeholder.jpeg"
+    },
+    {
+      "width": 2324,
+      "height": 1353,
+      "path": "./photos/3 - People (background)/Swimmers_in_oslo.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Swimmers_in_oslo.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Swimmers_in_oslo.placeholder.jpeg"
+    },
+    {
+      "width": 2250,
+      "height": 1397,
+      "path": "./photos/3 - People (background)/Skiiers.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Skiiers.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Skiiers.placeholder.jpeg"
+    },
+    {
+      "width": 2298,
+      "height": 1367,
+      "path": "./photos/3 - People (background)/Musicians_in_bilbao.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Musicians_in_bilbao.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Musicians_in_bilbao.placeholder.jpeg"
+    },
+    {
+      "width": 2370,
+      "height": 1326,
+      "path": "./photos/3 - People (background)/People_toronto_library.jpeg",
+      "compressed_path": "./photos/3 - People (background)/People_toronto_library.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/People_toronto_library.placeholder.jpeg"
+    },
+    {
+      "width": 2100,
+      "height": 1496,
+      "path": "./photos/3 - People (background)/Police_in_london.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Police_in_london.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Police_in_london.placeholder.jpeg"
+    },
+    {
+      "width": 2322,
+      "height": 1354,
+      "path": "./photos/3 - People (background)/Seller_in_seoul.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Seller_in_seoul.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Seller_in_seoul.placeholder.jpeg"
+    },
+    {
+      "width": 2250,
+      "height": 1398,
+      "path": "./photos/3 - People (background)/People_in_bilbao.jpeg",
+      "compressed_path": "./photos/3 - People (background)/People_in_bilbao.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/People_in_bilbao.placeholder.jpeg"
+    },
+    {
+      "width": 2172,
+      "height": 1448,
+      "path": "./photos/3 - People (background)/Band_album.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Band_album.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Band_album.placeholder.jpeg"
+    },
+    {
+      "width": 2256,
+      "height": 1394,
+      "path": "./photos/3 - People (background)/Tourists_in_venice.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Tourists_in_venice.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Tourists_in_venice.placeholder.jpeg"
+    },
+    {
+      "width": 2404,
+      "height": 1307,
+      "path": "./photos/3 - People (background)/Tourist_in_blue_lagoon.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Tourist_in_blue_lagoon.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Tourist_in_blue_lagoon.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/3 - People (background)/Hikers_galdhopiggen_glacier.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Hikers_galdhopiggen_glacier.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Hikers_galdhopiggen_glacier.placeholder.jpeg"
+    },
+    {
+      "width": 1822,
+      "height": 1724,
+      "path": "./photos/3 - People (background)/People_in_kyoto.jpeg",
+      "compressed_path": "./photos/3 - People (background)/People_in_kyoto.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/People_in_kyoto.placeholder.jpeg"
+    },
+    {
+      "width": 2104,
+      "height": 1495,
+      "path": "./photos/3 - People (background)/Window_in_oslo.jpeg",
+      "compressed_path": "./photos/3 - People (background)/Window_in_oslo.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3 - People (background)/Window_in_oslo.placeholder.jpeg"
+    }
+  ],
+  "4 - Plants": [
     {
       "width": 1757,
       "height": 1757,
-      "path": "./photos/Plants/Lily_in_garden.jpeg",
-      "compressed_path": "./photos/Plants/Lily_in_garden.min.jpeg",
+      "path": "./photos/4 - Plants/Lily_in_garden.jpeg",
+      "compressed_path": "./photos/4 - Plants/Lily_in_garden.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Plants/Lily_in_garden.placeholder.jpeg"
+      "placeholder_path": "./photos/4 - Plants/Lily_in_garden.placeholder.jpeg"
+    }
+  ],
+  "5 - Misc": [
+    {
+      "width": 2128,
+      "height": 1760,
+      "path": "./photos/5 - Misc/Robot_dog_in_chengdu.jpeg",
+      "compressed_path": "./photos/5 - Misc/Robot_dog_in_chengdu.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/5 - Misc/Robot_dog_in_chengdu.placeholder.jpeg"
     }
   ]
 }
