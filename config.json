@@ -75,14 +75,6 @@
       "placeholder_path": "./photos/Landmarks/Path_in_gaztelugatxe.placeholder.jpeg"
     },
     {
-      "width": 2234,
-      "height": 1407,
-      "path": "./photos/Landmarks/Chongqing_at_night.jpeg",
-      "compressed_path": "./photos/Landmarks/Chongqing_at_night.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Chongqing_at_night.placeholder.jpeg"
-    },
-    {
       "width": 2360,
       "height": 1331,
       "path": "./photos/Landmarks/Temple_in_nanjing.jpeg",
@@ -439,14 +431,6 @@
       "placeholder_path": "./photos/People (background)/People_in_kyoto.placeholder.jpeg"
     },
     {
-      "width": 2704,
-      "height": 1163,
-      "path": "./photos/People (background)/Demonstrants_in_munchen.jpeg",
-      "compressed_path": "./photos/People (background)/Demonstrants_in_munchen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (background)/Demonstrants_in_munchen.placeholder.jpeg"
-    },
-    {
       "width": 2104,
       "height": 1495,
       "path": "./photos/People (background)/Window_in_oslo.jpeg",
@@ -495,14 +479,6 @@
       "compressed_path": "./photos/People (focus)/Models_in_seoul.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/People (focus)/Models_in_seoul.placeholder.jpeg"
-    },
-    {
-      "width": 1828,
-      "height": 1718,
-      "path": "./photos/People (focus)/Yunnan_tower.jpeg",
-      "compressed_path": "./photos/People (focus)/Yunnan_tower.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People (focus)/Yunnan_tower.placeholder.jpeg"
     },
     {
       "width": 2360,
