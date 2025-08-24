@@ -347,22 +347,6 @@
       "placeholder_path": "./photos/Animals/Sheep_iceland.placeholder.jpeg"
     },
     {
-      "width": 1571,
-      "height": 1628,
-      "path": "./photos/Animals/Pigeons_in_toronto.jpeg",
-      "compressed_path": "./photos/Animals/Pigeons_in_toronto.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Pigeons_in_toronto.placeholder.jpeg"
-    },
-    {
-      "width": 2006,
-      "height": 1567,
-      "path": "./photos/Animals/Birds_in_san_diego.jpeg",
-      "compressed_path": "./photos/Animals/Birds_in_san_diego.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Birds_in_san_diego.placeholder.jpeg"
-    },
-    {
       "width": 2128,
       "height": 1477,
       "path": "./photos/Animals/Goat_in_tustna.jpeg",
@@ -377,22 +361,6 @@
       "compressed_path": "./photos/Animals/Sheeps_in_trollheimen.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Animals/Sheeps_in_trollheimen.placeholder.jpeg"
-    },
-    {
-      "width": 1788,
-      "height": 1757,
-      "path": "./photos/Animals/Monkey_fisting_malaysia.jpeg",
-      "compressed_path": "./photos/Animals/Monkey_fisting_malaysia.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Monkey_fisting_malaysia.placeholder.jpeg"
-    },
-    {
-      "width": 1834,
-      "height": 1713,
-      "path": "./photos/Animals/Cats_morrocco.jpeg",
-      "compressed_path": "./photos/Animals/Cats_morrocco.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Cats_morrocco.placeholder.jpeg"
     }
   ],
   "People": [
