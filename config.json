@@ -83,14 +83,6 @@
       "placeholder_path": "./photos/1 - Landmarks/Temple_in_nanjing.placeholder.jpeg"
     },
     {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/1 - Landmarks/Waves_in_donostia.jpeg",
-      "compressed_path": "./photos/1 - Landmarks/Waves_in_donostia.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/1 - Landmarks/Waves_in_donostia.placeholder.jpeg"
-    },
-    {
       "width": 2324,
       "height": 1352,
       "path": "./photos/1 - Landmarks/Lake_by_mt_fuji.jpeg",
@@ -105,14 +97,6 @@
       "compressed_path": "./photos/1 - Landmarks/Statues_in_nanjing.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/1 - Landmarks/Statues_in_nanjing.placeholder.jpeg"
-    },
-    {
-      "width": 2464,
-      "height": 1275,
-      "path": "./photos/1 - Landmarks/Lights_during_skiing.jpeg",
-      "compressed_path": "./photos/1 - Landmarks/Lights_during_skiing.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/1 - Landmarks/Lights_during_skiing.placeholder.jpeg"
     },
     {
       "width": 2371,
@@ -177,14 +161,6 @@
       "compressed_path": "./photos/1 - Landmarks/Islands_near_tustna.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/1 - Landmarks/Islands_near_tustna.placeholder.jpeg"
-    },
-    {
-      "width": 2208,
-      "height": 1423,
-      "path": "./photos/1 - Landmarks/Stavanger_city_centre.jpeg",
-      "compressed_path": "./photos/1 - Landmarks/Stavanger_city_centre.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/1 - Landmarks/Stavanger_city_centre.placeholder.jpeg"
     },
     {
       "width": 2050,
@@ -357,28 +333,12 @@
       "placeholder_path": "./photos/2 - People (focus)/Girl_in_da_nang.placeholder.jpeg"
     },
     {
-      "width": 2336,
-      "height": 1346,
-      "path": "./photos/2 - People (focus)/Couple_in_dinant.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Couple_in_dinant.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Couple_in_dinant.placeholder.jpeg"
-    },
-    {
       "width": 2172,
       "height": 1448,
       "path": "./photos/2 - People (focus)/Man_hakone.jpeg",
       "compressed_path": "./photos/2 - People (focus)/Man_hakone.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/2 - People (focus)/Man_hakone.placeholder.jpeg"
-    },
-    {
-      "width": 2222,
-      "height": 1413,
-      "path": "./photos/2 - People (focus)/Women_in_seoul.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Women_in_seoul.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Women_in_seoul.placeholder.jpeg"
     },
     {
       "width": 1273,
