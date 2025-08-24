@@ -75,28 +75,12 @@
       "placeholder_path": "./photos/1 - Landmarks/Temple_in_nanjing.placeholder.jpeg"
     },
     {
-      "width": 2324,
-      "height": 1352,
-      "path": "./photos/1 - Landmarks/Lake_by_mt_fuji.jpeg",
-      "compressed_path": "./photos/1 - Landmarks/Lake_by_mt_fuji.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/1 - Landmarks/Lake_by_mt_fuji.placeholder.jpeg"
-    },
-    {
       "width": 2134,
       "height": 1472,
       "path": "./photos/1 - Landmarks/Statues_in_nanjing.jpeg",
       "compressed_path": "./photos/1 - Landmarks/Statues_in_nanjing.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/1 - Landmarks/Statues_in_nanjing.placeholder.jpeg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/1 - Landmarks/Galdhopiggen.jpeg",
-      "compressed_path": "./photos/1 - Landmarks/Galdhopiggen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/1 - Landmarks/Galdhopiggen.placeholder.jpeg"
     },
     {
       "width": 2272,
@@ -245,22 +229,6 @@
       "placeholder_path": "./photos/2 - People (focus)/People_in_bruges.placeholder.jpeg"
     },
     {
-      "width": 2278,
-      "height": 1379,
-      "path": "./photos/2 - People (focus)/Sister_iceland_mountain.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Sister_iceland_mountain.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Sister_iceland_mountain.placeholder.jpeg"
-    },
-    {
-      "width": 2339,
-      "height": 1510,
-      "path": "./photos/2 - People (focus)/Man_in_donostia.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Man_in_donostia.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Man_in_donostia.placeholder.jpeg"
-    },
-    {
       "width": 2114,
       "height": 1486,
       "path": "./photos/2 - People (focus)/Models_in_seoul.jpeg",
@@ -299,14 +267,6 @@
       "compressed_path": "./photos/2 - People (focus)/Girl_in_da_nang.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/2 - People (focus)/Girl_in_da_nang.placeholder.jpeg"
-    },
-    {
-      "width": 2172,
-      "height": 1448,
-      "path": "./photos/2 - People (focus)/Man_hakone.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Man_hakone.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Man_hakone.placeholder.jpeg"
     },
     {
       "width": 1273,
@@ -437,28 +397,12 @@
       "placeholder_path": "./photos/2 - People (focus)/Sailors_in_florence.placeholder.jpeg"
     },
     {
-      "width": 2270,
-      "height": 1383,
-      "path": "./photos/2 - People (focus)/Sisters_in_venice.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Sisters_in_venice.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Sisters_in_venice.placeholder.jpeg"
-    },
-    {
       "width": 2016,
       "height": 1560,
       "path": "./photos/2 - People (focus)/Men_in_san_francisco.jpeg",
       "compressed_path": "./photos/2 - People (focus)/Men_in_san_francisco.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/2 - People (focus)/Men_in_san_francisco.placeholder.jpeg"
-    },
-    {
-      "width": 2414,
-      "height": 1304,
-      "path": "./photos/2 - People (focus)/Skier_in_lift.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Skier_in_lift.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Skier_in_lift.placeholder.jpeg"
     },
     {
       "width": 2268,
