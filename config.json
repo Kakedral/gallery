@@ -317,6 +317,14 @@
       "placeholder_path": "./photos/2 - People (focus)/Monk_in_bangkok.placeholder.jpeg"
     },
     {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/2 - People (focus)/Great_sand_dunes_national_park.jpeg",
+      "compressed_path": "./photos/2 - People (focus)/Great_sand_dunes_national_park.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/2 - People (focus)/Great_sand_dunes_national_park.placeholder.jpeg"
+    },
+    {
       "width": 2076,
       "height": 1514,
       "path": "./photos/2 - People (focus)/Sellers_in_hoi_an.jpeg",
