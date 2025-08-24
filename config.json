@@ -139,14 +139,6 @@
       "placeholder_path": "./photos/1 - Landmarks/Bologna_hole.placeholder.jpeg"
     },
     {
-      "width": 2102,
-      "height": 1496,
-      "path": "./photos/1 - Landmarks/Chongqing_train.jpeg",
-      "compressed_path": "./photos/1 - Landmarks/Chongqing_train.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/1 - Landmarks/Chongqing_train.placeholder.jpeg"
-    },
-    {
       "width": 2360,
       "height": 1331,
       "path": "./photos/1 - Landmarks/Shanghai_line.jpeg",
@@ -501,14 +493,6 @@
       "placeholder_path": "./photos/2 - People (focus)/Singer_san_francisco.placeholder.jpeg"
     },
     {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/2 - People (focus)/People_on_rock_pinnacles_park.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/People_on_rock_pinnacles_park.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/People_on_rock_pinnacles_park.placeholder.jpeg"
-    },
-    {
       "width": 1941,
       "height": 1465,
       "path": "./photos/2 - People (focus)/Footballer_in_ainsa.jpeg",
@@ -687,14 +671,6 @@
       "compressed_path": "./photos/4 - Plants/Flower_spain.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/4 - Plants/Flower_spain.placeholder.jpeg"
-    },
-    {
-      "width": 1881,
-      "height": 1698,
-      "path": "./photos/4 - Plants/Plant_pisa.jpeg",
-      "compressed_path": "./photos/4 - Plants/Plant_pisa.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/4 - Plants/Plant_pisa.placeholder.jpeg"
     },
     {
       "width": 2074,
