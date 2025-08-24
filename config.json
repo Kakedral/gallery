@@ -671,6 +671,38 @@
       "compressed_path": "./photos/4 - Plants/Lily_in_garden.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/4 - Plants/Lily_in_garden.placeholder.jpeg"
+    },
+    {
+      "width": 2158,
+      "height": 1457,
+      "path": "./photos/4 - Plants/Plant_redwood_national_park.jpeg",
+      "compressed_path": "./photos/4 - Plants/Plant_redwood_national_park.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/4 - Plants/Plant_redwood_national_park.placeholder.jpeg"
+    },
+    {
+      "width": 2160,
+      "height": 1456,
+      "path": "./photos/4 - Plants/Flower_spain.jpeg",
+      "compressed_path": "./photos/4 - Plants/Flower_spain.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/4 - Plants/Flower_spain.placeholder.jpeg"
+    },
+    {
+      "width": 1881,
+      "height": 1698,
+      "path": "./photos/4 - Plants/Plant_pisa.jpeg",
+      "compressed_path": "./photos/4 - Plants/Plant_pisa.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/4 - Plants/Plant_pisa.placeholder.jpeg"
+    },
+    {
+      "width": 2074,
+      "height": 1516,
+      "path": "./photos/4 - Plants/Plant_spain.jpeg",
+      "compressed_path": "./photos/4 - Plants/Plant_spain.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/4 - Plants/Plant_spain.placeholder.jpeg"
     }
   ],
   "5 - Misc": [
