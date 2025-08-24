@@ -49,22 +49,6 @@
       "placeholder_path": "./photos/Landmarks/Waves_in_donostia.placeholder.jpeg"
     },
     {
-      "width": 2121,
-      "height": 1760,
-      "path": "./photos/Landmarks/Besseggen.jpeg",
-      "compressed_path": "./photos/Landmarks/Besseggen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Besseggen.placeholder.jpeg"
-    },
-    {
-      "width": 2282,
-      "height": 1377,
-      "path": "./photos/Landmarks/Goteborg.jpeg",
-      "compressed_path": "./photos/Landmarks/Goteborg.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Goteborg.placeholder.jpeg"
-    },
-    {
       "width": 2360,
       "height": 1331,
       "path": "./photos/Landmarks/Trondheim.jpeg",
@@ -87,14 +71,6 @@
       "compressed_path": "./photos/Landmarks/Train_in_alishan.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Landmarks/Train_in_alishan.placeholder.jpeg"
-    },
-    {
-      "width": 2078,
-      "height": 1513,
-      "path": "./photos/Landmarks/Train_antwerp.jpeg",
-      "compressed_path": "./photos/Landmarks/Train_antwerp.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Train_antwerp.placeholder.jpeg"
     },
     {
       "width": 2134,
@@ -193,30 +169,6 @@
       "placeholder_path": "./photos/Landmarks/Wine_napa.placeholder.jpeg"
     },
     {
-      "width": 2036,
-      "height": 1544,
-      "path": "./photos/Landmarks/Park_in_toronto.jpeg",
-      "compressed_path": "./photos/Landmarks/Park_in_toronto.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Park_in_toronto.placeholder.jpeg"
-    },
-    {
-      "width": 1880,
-      "height": 1673,
-      "path": "./photos/Landmarks/Atlantic_road.jpeg",
-      "compressed_path": "./photos/Landmarks/Atlantic_road.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Atlantic_road.placeholder.jpeg"
-    },
-    {
-      "width": 1736,
-      "height": 1736,
-      "path": "./photos/Landmarks/Pub_in_oslo.jpeg",
-      "compressed_path": "./photos/Landmarks/Pub_in_oslo.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Pub_in_oslo.placeholder.jpeg"
-    },
-    {
       "width": 2570,
       "height": 1223,
       "path": "./photos/Landmarks/Islands_near_tustna.jpeg",
@@ -225,28 +177,12 @@
       "placeholder_path": "./photos/Landmarks/Islands_near_tustna.placeholder.jpeg"
     },
     {
-      "width": 1741,
-      "height": 1804,
-      "path": "./photos/Landmarks/Shrine_in_japan.jpeg",
-      "compressed_path": "./photos/Landmarks/Shrine_in_japan.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Shrine_in_japan.placeholder.jpeg"
-    },
-    {
       "width": 1996,
       "height": 1575,
       "path": "./photos/Landmarks/Church_iceland.jpeg",
       "compressed_path": "./photos/Landmarks/Church_iceland.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Landmarks/Church_iceland.placeholder.jpeg"
-    },
-    {
-      "width": 2047,
-      "height": 1715,
-      "path": "./photos/Landmarks/Trondheim_university.jpeg",
-      "compressed_path": "./photos/Landmarks/Trondheim_university.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Trondheim_university.placeholder.jpeg"
     },
     {
       "width": 2208,
@@ -329,14 +265,6 @@
       "placeholder_path": "./photos/Landmarks/Water_in_nanjing.placeholder.jpeg"
     },
     {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/Landmarks/Mountain_trollheimen.jpeg",
-      "compressed_path": "./photos/Landmarks/Mountain_trollheimen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Mountain_trollheimen.placeholder.jpeg"
-    },
-    {
       "width": 2264,
       "height": 1388,
       "path": "./photos/Landmarks/Statue_in_italy.jpeg",
@@ -401,14 +329,6 @@
       "compressed_path": "./photos/Animals/Panda_in_chengdu.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Animals/Panda_in_chengdu.placeholder.jpeg"
-    },
-    {
-      "width": 2172,
-      "height": 1448,
-      "path": "./photos/Animals/Birds_kualu_lumpur.jpeg",
-      "compressed_path": "./photos/Animals/Birds_kualu_lumpur.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Birds_kualu_lumpur.placeholder.jpeg"
     },
     {
       "width": 1760,
@@ -1059,14 +979,6 @@
       "compressed_path": "./photos/People/People_on_rock_pinnacles_park.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/People/People_on_rock_pinnacles_park.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People/B2D6CC2D-20E9-43D8-9815-198E813E8A56_1_102_o.jpeg",
-      "compressed_path": "./photos/People/B2D6CC2D-20E9-43D8-9815-198E813E8A56_1_102_o.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/B2D6CC2D-20E9-43D8-9815-198E813E8A56_1_102_o.placeholder.jpeg"
     },
     {
       "width": 1941,
