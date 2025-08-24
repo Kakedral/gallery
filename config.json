@@ -179,14 +179,6 @@
       "placeholder_path": "./photos/Landmarks/Floating_iceberg.placeholder.jpeg"
     },
     {
-      "width": 2206,
-      "height": 1424,
-      "path": "./photos/Landmarks/Boat_in_donostia.jpeg",
-      "compressed_path": "./photos/Landmarks/Boat_in_donostia.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Boat_in_donostia.placeholder.jpeg"
-    },
-    {
       "width": 2272,
       "height": 1635,
       "path": "./photos/Landmarks/Baloon_in_ostende.jpeg",
@@ -345,14 +337,6 @@
       "compressed_path": "./photos/Landmarks/Bohol_mountains.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Landmarks/Bohol_mountains.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/Landmarks/Fuji_from_ground.jpeg",
-      "compressed_path": "./photos/Landmarks/Fuji_from_ground.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Fuji_from_ground.placeholder.jpeg"
     },
     {
       "width": 2272,
@@ -875,30 +859,6 @@
       "compressed_path": "./photos/People/Painter_san_francisco.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/People/Painter_san_francisco.placeholder.jpeg"
-    },
-    {
-      "width": 2016,
-      "height": 1557,
-      "path": "./photos/People/Trolley_man_kyoto.jpeg",
-      "compressed_path": "./photos/People/Trolley_man_kyoto.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Trolley_man_kyoto.placeholder.jpeg"
-    },
-    {
-      "width": 1760,
-      "height": 1760,
-      "path": "./photos/People/Skiers_in_aare.jpeg",
-      "compressed_path": "./photos/People/Skiers_in_aare.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Skiers_in_aare.placeholder.jpeg"
-    },
-    {
-      "width": 2118,
-      "height": 1484,
-      "path": "./photos/People/People_in_berlin_party.jpeg",
-      "compressed_path": "./photos/People/People_in_berlin_party.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/People_in_berlin_party.placeholder.jpeg"
     },
     {
       "width": 2248,
