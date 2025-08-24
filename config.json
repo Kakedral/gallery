@@ -379,44 +379,12 @@
       "placeholder_path": "./photos/Animals/Penguin_yokohama.placeholder.jpeg"
     },
     {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/Animals/Sheep_in_ainsa.jpeg",
-      "compressed_path": "./photos/Animals/Sheep_in_ainsa.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Sheep_in_ainsa.placeholder.jpeg"
-    },
-    {
-      "width": 2304,
-      "height": 1365,
-      "path": "./photos/Animals/Dolphin_yokohama.jpeg",
-      "compressed_path": "./photos/Animals/Dolphin_yokohama.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Dolphin_yokohama.placeholder.jpeg"
-    },
-    {
       "width": 2186,
       "height": 1437,
       "path": "./photos/Animals/Goats_morroco.jpeg",
       "compressed_path": "./photos/Animals/Goats_morroco.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Animals/Goats_morroco.placeholder.jpeg"
-    },
-    {
-      "width": 1946,
-      "height": 1613,
-      "path": "./photos/Animals/Shiba_dog.jpeg",
-      "compressed_path": "./photos/Animals/Shiba_dog.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Shiba_dog.placeholder.jpeg"
-    },
-    {
-      "width": 2066,
-      "height": 1760,
-      "path": "./photos/Animals/Ducks_in_toronto.jpeg",
-      "compressed_path": "./photos/Animals/Ducks_in_toronto.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Ducks_in_toronto.placeholder.jpeg"
     },
     {
       "width": 2360,
@@ -427,36 +395,12 @@
       "placeholder_path": "./photos/Animals/Parrots_in_barcelona.placeholder.jpeg"
     },
     {
-      "width": 2498,
-      "height": 1409,
-      "path": "./photos/Animals/Ducks_in_snow_and_water.jpeg",
-      "compressed_path": "./photos/Animals/Ducks_in_snow_and_water.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Ducks_in_snow_and_water.placeholder.jpeg"
-    },
-    {
-      "width": 1760,
-      "height": 1760,
-      "path": "./photos/Animals/Dog_in_beitostolen.jpeg",
-      "compressed_path": "./photos/Animals/Dog_in_beitostolen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Dog_in_beitostolen.placeholder.jpeg"
-    },
-    {
       "width": 2360,
       "height": 1331,
       "path": "./photos/Animals/Panda_in_chengdu.jpeg",
       "compressed_path": "./photos/Animals/Panda_in_chengdu.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Animals/Panda_in_chengdu.placeholder.jpeg"
-    },
-    {
-      "width": 1760,
-      "height": 1760,
-      "path": "./photos/Animals/Swan_curled_up.jpeg",
-      "compressed_path": "./photos/Animals/Swan_curled_up.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Swan_curled_up.placeholder.jpeg"
     },
     {
       "width": 2172,
@@ -475,22 +419,6 @@
       "placeholder_path": "./photos/Animals/Frog_in_dam.placeholder.jpeg"
     },
     {
-      "width": 1998,
-      "height": 1680,
-      "path": "./photos/Animals/Cat_in_chongqing.jpeg",
-      "compressed_path": "./photos/Animals/Cat_in_chongqing.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Cat_in_chongqing.placeholder.jpeg"
-    },
-    {
-      "width": 2064,
-      "height": 1522,
-      "path": "./photos/Animals/Sulking_panda_in_chengud.jpeg",
-      "compressed_path": "./photos/Animals/Sulking_panda_in_chengud.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Sulking_panda_in_chengud.placeholder.jpeg"
-    },
-    {
       "width": 2240,
       "height": 1404,
       "path": "./photos/Animals/Sheep_iceland.jpeg",
@@ -505,14 +433,6 @@
       "compressed_path": "./photos/Animals/Pigeons_in_toronto.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Animals/Pigeons_in_toronto.placeholder.jpeg"
-    },
-    {
-      "width": 2140,
-      "height": 1468,
-      "path": "./photos/Animals/Dog_in_krabi.jpeg",
-      "compressed_path": "./photos/Animals/Dog_in_krabi.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Dog_in_krabi.placeholder.jpeg"
     },
     {
       "width": 2006,
@@ -539,36 +459,12 @@
       "placeholder_path": "./photos/Animals/Sheeps_in_trollheimen.placeholder.jpeg"
     },
     {
-      "width": 2172,
-      "height": 1448,
-      "path": "./photos/Animals/Chilling_cat.jpeg",
-      "compressed_path": "./photos/Animals/Chilling_cat.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Chilling_cat.placeholder.jpeg"
-    },
-    {
       "width": 1788,
       "height": 1757,
       "path": "./photos/Animals/Monkey_fisting_malaysia.jpeg",
       "compressed_path": "./photos/Animals/Monkey_fisting_malaysia.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Animals/Monkey_fisting_malaysia.placeholder.jpeg"
-    },
-    {
-      "width": 2042,
-      "height": 1539,
-      "path": "./photos/Animals/Goats_in_trollheimen.jpeg",
-      "compressed_path": "./photos/Animals/Goats_in_trollheimen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Goats_in_trollheimen.placeholder.jpeg"
-    },
-    {
-      "width": 2080,
-      "height": 1511,
-      "path": "./photos/Animals/Deer_crossing_nara.jpeg",
-      "compressed_path": "./photos/Animals/Deer_crossing_nara.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Animals/Deer_crossing_nara.placeholder.jpeg"
     },
     {
       "width": 1834,
