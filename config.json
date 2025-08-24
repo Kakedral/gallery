@@ -75,14 +75,6 @@
       "placeholder_path": "./photos/Landmarks/Path_in_gaztelugatxe.placeholder.jpeg"
     },
     {
-      "width": 2266,
-      "height": 1387,
-      "path": "./photos/Landmarks/Mountain_in_yosemite.jpeg",
-      "compressed_path": "./photos/Landmarks/Mountain_in_yosemite.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Mountain_in_yosemite.placeholder.jpeg"
-    },
-    {
       "width": 2234,
       "height": 1407,
       "path": "./photos/Landmarks/Chongqing_at_night.jpeg",
@@ -105,14 +97,6 @@
       "compressed_path": "./photos/Landmarks/Waves_in_donostia.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Landmarks/Waves_in_donostia.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/Landmarks/Trondheim.jpeg",
-      "compressed_path": "./photos/Landmarks/Trondheim.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landmarks/Trondheim.placeholder.jpeg"
     },
     {
       "width": 2324,
@@ -325,494 +309,480 @@
       "placeholder_path": "./photos/Misc/Robot_dog_in_chengdu.placeholder.jpeg"
     }
   ],
-  "People": [
+  "People (background)": [
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/People/Swimmers_in_iceland.jpeg",
-      "compressed_path": "./photos/People/Swimmers_in_iceland.min.jpeg",
+      "path": "./photos/People (background)/Swimmers_in_iceland.jpeg",
+      "compressed_path": "./photos/People (background)/Swimmers_in_iceland.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Swimmers_in_iceland.placeholder.jpeg"
-    },
-    {
-      "width": 2002,
-      "height": 1568,
-      "path": "./photos/People/Womens_in_kyoto.jpeg",
-      "compressed_path": "./photos/People/Womens_in_kyoto.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Womens_in_kyoto.placeholder.jpeg"
-    },
-    {
-      "width": 1866,
-      "height": 1709,
-      "path": "./photos/People/People_in_bruges.jpeg",
-      "compressed_path": "./photos/People/People_in_bruges.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/People_in_bruges.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Swimmers_in_iceland.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/People/Swimmers_in_vinpearl.jpeg",
-      "compressed_path": "./photos/People/Swimmers_in_vinpearl.min.jpeg",
+      "path": "./photos/People (background)/Swimmers_in_vinpearl.jpeg",
+      "compressed_path": "./photos/People (background)/Swimmers_in_vinpearl.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Swimmers_in_vinpearl.placeholder.jpeg"
-    },
-    {
-      "width": 2278,
-      "height": 1379,
-      "path": "./photos/People/Sister_iceland_mountain.jpeg",
-      "compressed_path": "./photos/People/Sister_iceland_mountain.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Sister_iceland_mountain.placeholder.jpeg"
-    },
-    {
-      "width": 2339,
-      "height": 1510,
-      "path": "./photos/People/Man_in_donostia.jpeg",
-      "compressed_path": "./photos/People/Man_in_donostia.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Man_in_donostia.placeholder.jpeg"
-    },
-    {
-      "width": 2114,
-      "height": 1486,
-      "path": "./photos/People/Models_in_seoul.jpeg",
-      "compressed_path": "./photos/People/Models_in_seoul.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Models_in_seoul.placeholder.jpeg"
-    },
-    {
-      "width": 1828,
-      "height": 1718,
-      "path": "./photos/People/Yunnan_tower.jpeg",
-      "compressed_path": "./photos/People/Yunnan_tower.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Yunnan_tower.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People/Womens_in_sand_dune_national_park.jpeg",
-      "compressed_path": "./photos/People/Womens_in_sand_dune_national_park.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Womens_in_sand_dune_national_park.placeholder.jpeg"
-    },
-    {
-      "width": 2078,
-      "height": 1512,
-      "path": "./photos/People/Women_in_iceland.jpeg",
-      "compressed_path": "./photos/People/Women_in_iceland.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Women_in_iceland.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Swimmers_in_vinpearl.placeholder.jpeg"
     },
     {
       "width": 2362,
       "height": 1329,
-      "path": "./photos/People/Munch_museum_oslo.jpeg",
-      "compressed_path": "./photos/People/Munch_museum_oslo.min.jpeg",
+      "path": "./photos/People (background)/Munch_museum_oslo.jpeg",
+      "compressed_path": "./photos/People (background)/Munch_museum_oslo.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Munch_museum_oslo.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Munch_museum_oslo.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1332,
-      "path": "./photos/People/Skiers_in_hemsedal.jpeg",
-      "compressed_path": "./photos/People/Skiers_in_hemsedal.min.jpeg",
+      "path": "./photos/People (background)/Skiers_in_hemsedal.jpeg",
+      "compressed_path": "./photos/People (background)/Skiers_in_hemsedal.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Skiers_in_hemsedal.placeholder.jpeg"
-    },
-    {
-      "width": 3120,
-      "height": 1760,
-      "path": "./photos/People/Girl_on_galdhopiggen.jpeg",
-      "compressed_path": "./photos/People/Girl_on_galdhopiggen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Girl_on_galdhopiggen.placeholder.jpeg"
-    },
-    {
-      "width": 2040,
-      "height": 1540,
-      "path": "./photos/People/Girl_in_da_nang.jpeg",
-      "compressed_path": "./photos/People/Girl_in_da_nang.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Girl_in_da_nang.placeholder.jpeg"
-    },
-    {
-      "width": 2172,
-      "height": 1448,
-      "path": "./photos/People/Girls_in_nara.jpeg",
-      "compressed_path": "./photos/People/Girls_in_nara.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Girls_in_nara.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People/Artists_in_trondheim.jpeg",
-      "compressed_path": "./photos/People/Artists_in_trondheim.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Artists_in_trondheim.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Skiers_in_hemsedal.placeholder.jpeg"
     },
     {
       "width": 2324,
       "height": 1353,
-      "path": "./photos/People/Swimmers_in_oslo.jpeg",
-      "compressed_path": "./photos/People/Swimmers_in_oslo.min.jpeg",
+      "path": "./photos/People (background)/Swimmers_in_oslo.jpeg",
+      "compressed_path": "./photos/People (background)/Swimmers_in_oslo.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Swimmers_in_oslo.placeholder.jpeg"
-    },
-    {
-      "width": 2336,
-      "height": 1346,
-      "path": "./photos/People/Couple_in_dinant.jpeg",
-      "compressed_path": "./photos/People/Couple_in_dinant.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Couple_in_dinant.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Swimmers_in_oslo.placeholder.jpeg"
     },
     {
       "width": 2250,
       "height": 1397,
-      "path": "./photos/People/Skiiers.jpeg",
-      "compressed_path": "./photos/People/Skiiers.min.jpeg",
+      "path": "./photos/People (background)/Skiiers.jpeg",
+      "compressed_path": "./photos/People (background)/Skiiers.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Skiiers.placeholder.jpeg"
-    },
-    {
-      "width": 2172,
-      "height": 1448,
-      "path": "./photos/People/Man_hakone.jpeg",
-      "compressed_path": "./photos/People/Man_hakone.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Man_hakone.placeholder.jpeg"
-    },
-    {
-      "width": 2222,
-      "height": 1413,
-      "path": "./photos/People/Women_in_seoul.jpeg",
-      "compressed_path": "./photos/People/Women_in_seoul.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Women_in_seoul.placeholder.jpeg"
-    },
-    {
-      "width": 1273,
-      "height": 2470,
-      "path": "./photos/People/Monk_in_bangkok.jpeg",
-      "compressed_path": "./photos/People/Monk_in_bangkok.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Monk_in_bangkok.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People/Great_sand_dunes_national_park.jpeg",
-      "compressed_path": "./photos/People/Great_sand_dunes_national_park.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Great_sand_dunes_national_park.placeholder.jpeg"
-    },
-    {
-      "width": 2076,
-      "height": 1514,
-      "path": "./photos/People/Sellers_in_hoi_an.jpeg",
-      "compressed_path": "./photos/People/Sellers_in_hoi_an.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Sellers_in_hoi_an.placeholder.jpeg"
-    },
-    {
-      "width": 1790,
-      "height": 1586,
-      "path": "./photos/People/Sellers_in_florence.jpeg",
-      "compressed_path": "./photos/People/Sellers_in_florence.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Sellers_in_florence.placeholder.jpeg"
-    },
-    {
-      "width": 2510,
-      "height": 1253,
-      "path": "./photos/People/Man_in_dusseldorf.jpeg",
-      "compressed_path": "./photos/People/Man_in_dusseldorf.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Man_in_dusseldorf.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Skiiers.placeholder.jpeg"
     },
     {
       "width": 2298,
       "height": 1367,
-      "path": "./photos/People/Musicians_in_bilbao.jpeg",
-      "compressed_path": "./photos/People/Musicians_in_bilbao.min.jpeg",
+      "path": "./photos/People (background)/Musicians_in_bilbao.jpeg",
+      "compressed_path": "./photos/People (background)/Musicians_in_bilbao.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Musicians_in_bilbao.placeholder.jpeg"
-    },
-    {
-      "width": 1998,
-      "height": 1571,
-      "path": "./photos/People/dog_walker.jpeg",
-      "compressed_path": "./photos/People/dog_walker.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/dog_walker.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Musicians_in_bilbao.placeholder.jpeg"
     },
     {
       "width": 2370,
       "height": 1326,
-      "path": "./photos/People/People_toronto_library.jpeg",
-      "compressed_path": "./photos/People/People_toronto_library.min.jpeg",
+      "path": "./photos/People (background)/People_toronto_library.jpeg",
+      "compressed_path": "./photos/People (background)/People_toronto_library.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/People_toronto_library.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/People_toronto_library.placeholder.jpeg"
     },
     {
       "width": 2100,
       "height": 1496,
-      "path": "./photos/People/Police_in_london.jpeg",
-      "compressed_path": "./photos/People/Police_in_london.min.jpeg",
+      "path": "./photos/People (background)/Police_in_london.jpeg",
+      "compressed_path": "./photos/People (background)/Police_in_london.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Police_in_london.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Police_in_london.placeholder.jpeg"
     },
     {
       "width": 2322,
       "height": 1354,
-      "path": "./photos/People/Seller_in_seoul.jpeg",
-      "compressed_path": "./photos/People/Seller_in_seoul.min.jpeg",
+      "path": "./photos/People (background)/Seller_in_seoul.jpeg",
+      "compressed_path": "./photos/People (background)/Seller_in_seoul.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Seller_in_seoul.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Seller_in_seoul.placeholder.jpeg"
     },
     {
       "width": 2250,
       "height": 1398,
-      "path": "./photos/People/People_in_bilbao.jpeg",
-      "compressed_path": "./photos/People/People_in_bilbao.min.jpeg",
+      "path": "./photos/People (background)/People_in_bilbao.jpeg",
+      "compressed_path": "./photos/People (background)/People_in_bilbao.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/People_in_bilbao.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/People_in_bilbao.placeholder.jpeg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/People/Band_album.jpeg",
-      "compressed_path": "./photos/People/Band_album.min.jpeg",
+      "path": "./photos/People (background)/Band_album.jpeg",
+      "compressed_path": "./photos/People (background)/Band_album.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Band_album.placeholder.jpeg"
-    },
-    {
-      "width": 2306,
-      "height": 1364,
-      "path": "./photos/People/Womens_in_chongqing.jpeg",
-      "compressed_path": "./photos/People/Womens_in_chongqing.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Womens_in_chongqing.placeholder.jpeg"
-    },
-    {
-      "width": 2084,
-      "height": 1508,
-      "path": "./photos/People/Man_staring_cold.jpeg",
-      "compressed_path": "./photos/People/Man_staring_cold.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Man_staring_cold.placeholder.jpeg"
-    },
-    {
-      "width": 2122,
-      "height": 1481,
-      "path": "./photos/People/Man_in_iceland.jpeg",
-      "compressed_path": "./photos/People/Man_in_iceland.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Man_in_iceland.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People/Girl_in_trollheimen.jpeg",
-      "compressed_path": "./photos/People/Girl_in_trollheimen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Girl_in_trollheimen.placeholder.jpeg"
-    },
-    {
-      "width": 2093,
-      "height": 1680,
-      "path": "./photos/People/Family_in_da_nang.jpeg",
-      "compressed_path": "./photos/People/Family_in_da_nang.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Family_in_da_nang.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People/Girl_in_dazu.jpeg",
-      "compressed_path": "./photos/People/Girl_in_dazu.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Girl_in_dazu.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Band_album.placeholder.jpeg"
     },
     {
       "width": 2256,
       "height": 1394,
-      "path": "./photos/People/Tourists_in_venice.jpeg",
-      "compressed_path": "./photos/People/Tourists_in_venice.min.jpeg",
+      "path": "./photos/People (background)/Tourists_in_venice.jpeg",
+      "compressed_path": "./photos/People (background)/Tourists_in_venice.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Tourists_in_venice.placeholder.jpeg"
-    },
-    {
-      "width": 2068,
-      "height": 1519,
-      "path": "./photos/People/Flagbearer_in_florence.jpeg",
-      "compressed_path": "./photos/People/Flagbearer_in_florence.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Flagbearer_in_florence.placeholder.jpeg"
-    },
-    {
-      "width": 2020,
-      "height": 1555,
-      "path": "./photos/People/Man_in_olson.jpeg",
-      "compressed_path": "./photos/People/Man_in_olson.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Man_in_olson.placeholder.jpeg"
-    },
-    {
-      "width": 2660,
-      "height": 1182,
-      "path": "./photos/People/People_in_redwood_national_park.jpeg",
-      "compressed_path": "./photos/People/People_in_redwood_national_park.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/People_in_redwood_national_park.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People/Men_in_chengdu.jpeg",
-      "compressed_path": "./photos/People/Men_in_chengdu.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Men_in_chengdu.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People/Man_japan_temple.jpeg",
-      "compressed_path": "./photos/People/Man_japan_temple.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Man_japan_temple.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Tourists_in_venice.placeholder.jpeg"
     },
     {
       "width": 2404,
       "height": 1307,
-      "path": "./photos/People/Tourist_in_blue_lagoon.jpeg",
-      "compressed_path": "./photos/People/Tourist_in_blue_lagoon.min.jpeg",
+      "path": "./photos/People (background)/Tourist_in_blue_lagoon.jpeg",
+      "compressed_path": "./photos/People (background)/Tourist_in_blue_lagoon.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Tourist_in_blue_lagoon.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Tourist_in_blue_lagoon.placeholder.jpeg"
     },
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/People/Woman_in_oslo_library.jpeg",
-      "compressed_path": "./photos/People/Woman_in_oslo_library.min.jpeg",
+      "path": "./photos/People (background)/Hikers_galdhopiggen_glacier.jpeg",
+      "compressed_path": "./photos/People (background)/Hikers_galdhopiggen_glacier.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Woman_in_oslo_library.placeholder.jpeg"
-    },
-    {
-      "width": 2170,
-      "height": 1448,
-      "path": "./photos/People/Sailors_in_florence.jpeg",
-      "compressed_path": "./photos/People/Sailors_in_florence.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Sailors_in_florence.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People/Hikers_galdhopiggen_glacier.jpeg",
-      "compressed_path": "./photos/People/Hikers_galdhopiggen_glacier.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Hikers_galdhopiggen_glacier.placeholder.jpeg"
-    },
-    {
-      "width": 2270,
-      "height": 1383,
-      "path": "./photos/People/Sisters_in_venice.jpeg",
-      "compressed_path": "./photos/People/Sisters_in_venice.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Sisters_in_venice.placeholder.jpeg"
-    },
-    {
-      "width": 2016,
-      "height": 1560,
-      "path": "./photos/People/Men_in_san_francisco.jpeg",
-      "compressed_path": "./photos/People/Men_in_san_francisco.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Men_in_san_francisco.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Hikers_galdhopiggen_glacier.placeholder.jpeg"
     },
     {
       "width": 1822,
       "height": 1724,
-      "path": "./photos/People/People_in_kyoto.jpeg",
-      "compressed_path": "./photos/People/People_in_kyoto.min.jpeg",
+      "path": "./photos/People (background)/People_in_kyoto.jpeg",
+      "compressed_path": "./photos/People (background)/People_in_kyoto.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/People_in_kyoto.placeholder.jpeg"
-    },
-    {
-      "width": 2414,
-      "height": 1304,
-      "path": "./photos/People/Skier_in_lift.jpeg",
-      "compressed_path": "./photos/People/Skier_in_lift.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Skier_in_lift.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/People_in_kyoto.placeholder.jpeg"
     },
     {
       "width": 2704,
       "height": 1163,
-      "path": "./photos/People/Demonstrants_in_munchen.jpeg",
-      "compressed_path": "./photos/People/Demonstrants_in_munchen.min.jpeg",
+      "path": "./photos/People (background)/Demonstrants_in_munchen.jpeg",
+      "compressed_path": "./photos/People (background)/Demonstrants_in_munchen.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Demonstrants_in_munchen.placeholder.jpeg"
-    },
-    {
-      "width": 2268,
-      "height": 1385,
-      "path": "./photos/People/Painter_san_francisco.jpeg",
-      "compressed_path": "./photos/People/Painter_san_francisco.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Painter_san_francisco.placeholder.jpeg"
-    },
-    {
-      "width": 2234,
-      "height": 1408,
-      "path": "./photos/People/Singer_san_francisco.jpeg",
-      "compressed_path": "./photos/People/Singer_san_francisco.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Singer_san_francisco.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/People/People_on_rock_pinnacles_park.jpeg",
-      "compressed_path": "./photos/People/People_on_rock_pinnacles_park.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/People_on_rock_pinnacles_park.placeholder.jpeg"
-    },
-    {
-      "width": 1941,
-      "height": 1465,
-      "path": "./photos/People/Footballer_in_ainsa.jpeg",
-      "compressed_path": "./photos/People/Footballer_in_ainsa.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Footballer_in_ainsa.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Demonstrants_in_munchen.placeholder.jpeg"
     },
     {
       "width": 2104,
       "height": 1495,
-      "path": "./photos/People/Window_in_oslo.jpeg",
-      "compressed_path": "./photos/People/Window_in_oslo.min.jpeg",
+      "path": "./photos/People (background)/Window_in_oslo.jpeg",
+      "compressed_path": "./photos/People (background)/Window_in_oslo.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Window_in_oslo.placeholder.jpeg"
+      "placeholder_path": "./photos/People (background)/Window_in_oslo.placeholder.jpeg"
+    }
+  ],
+  "People (focus)": [
+    {
+      "width": 2002,
+      "height": 1568,
+      "path": "./photos/People (focus)/Womens_in_kyoto.jpeg",
+      "compressed_path": "./photos/People (focus)/Womens_in_kyoto.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Womens_in_kyoto.placeholder.jpeg"
+    },
+    {
+      "width": 1866,
+      "height": 1709,
+      "path": "./photos/People (focus)/People_in_bruges.jpeg",
+      "compressed_path": "./photos/People (focus)/People_in_bruges.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/People_in_bruges.placeholder.jpeg"
+    },
+    {
+      "width": 2278,
+      "height": 1379,
+      "path": "./photos/People (focus)/Sister_iceland_mountain.jpeg",
+      "compressed_path": "./photos/People (focus)/Sister_iceland_mountain.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Sister_iceland_mountain.placeholder.jpeg"
+    },
+    {
+      "width": 2339,
+      "height": 1510,
+      "path": "./photos/People (focus)/Man_in_donostia.jpeg",
+      "compressed_path": "./photos/People (focus)/Man_in_donostia.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Man_in_donostia.placeholder.jpeg"
+    },
+    {
+      "width": 2114,
+      "height": 1486,
+      "path": "./photos/People (focus)/Models_in_seoul.jpeg",
+      "compressed_path": "./photos/People (focus)/Models_in_seoul.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Models_in_seoul.placeholder.jpeg"
+    },
+    {
+      "width": 1828,
+      "height": 1718,
+      "path": "./photos/People (focus)/Yunnan_tower.jpeg",
+      "compressed_path": "./photos/People (focus)/Yunnan_tower.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Yunnan_tower.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People (focus)/Womens_in_sand_dune_national_park.jpeg",
+      "compressed_path": "./photos/People (focus)/Womens_in_sand_dune_national_park.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Womens_in_sand_dune_national_park.placeholder.jpeg"
+    },
+    {
+      "width": 2078,
+      "height": 1512,
+      "path": "./photos/People (focus)/Women_in_iceland.jpeg",
+      "compressed_path": "./photos/People (focus)/Women_in_iceland.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Women_in_iceland.placeholder.jpeg"
+    },
+    {
+      "width": 3120,
+      "height": 1760,
+      "path": "./photos/People (focus)/Girl_on_galdhopiggen.jpeg",
+      "compressed_path": "./photos/People (focus)/Girl_on_galdhopiggen.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Girl_on_galdhopiggen.placeholder.jpeg"
+    },
+    {
+      "width": 2040,
+      "height": 1540,
+      "path": "./photos/People (focus)/Girl_in_da_nang.jpeg",
+      "compressed_path": "./photos/People (focus)/Girl_in_da_nang.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Girl_in_da_nang.placeholder.jpeg"
+    },
+    {
+      "width": 2172,
+      "height": 1448,
+      "path": "./photos/People (focus)/Girls_in_nara.jpeg",
+      "compressed_path": "./photos/People (focus)/Girls_in_nara.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Girls_in_nara.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People (focus)/Artists_in_trondheim.jpeg",
+      "compressed_path": "./photos/People (focus)/Artists_in_trondheim.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Artists_in_trondheim.placeholder.jpeg"
+    },
+    {
+      "width": 2336,
+      "height": 1346,
+      "path": "./photos/People (focus)/Couple_in_dinant.jpeg",
+      "compressed_path": "./photos/People (focus)/Couple_in_dinant.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Couple_in_dinant.placeholder.jpeg"
+    },
+    {
+      "width": 2172,
+      "height": 1448,
+      "path": "./photos/People (focus)/Man_hakone.jpeg",
+      "compressed_path": "./photos/People (focus)/Man_hakone.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Man_hakone.placeholder.jpeg"
+    },
+    {
+      "width": 2222,
+      "height": 1413,
+      "path": "./photos/People (focus)/Women_in_seoul.jpeg",
+      "compressed_path": "./photos/People (focus)/Women_in_seoul.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Women_in_seoul.placeholder.jpeg"
+    },
+    {
+      "width": 1273,
+      "height": 2470,
+      "path": "./photos/People (focus)/Monk_in_bangkok.jpeg",
+      "compressed_path": "./photos/People (focus)/Monk_in_bangkok.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Monk_in_bangkok.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People (focus)/Great_sand_dunes_national_park.jpeg",
+      "compressed_path": "./photos/People (focus)/Great_sand_dunes_national_park.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Great_sand_dunes_national_park.placeholder.jpeg"
+    },
+    {
+      "width": 2076,
+      "height": 1514,
+      "path": "./photos/People (focus)/Sellers_in_hoi_an.jpeg",
+      "compressed_path": "./photos/People (focus)/Sellers_in_hoi_an.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Sellers_in_hoi_an.placeholder.jpeg"
+    },
+    {
+      "width": 2510,
+      "height": 1253,
+      "path": "./photos/People (focus)/Man_in_dusseldorf.jpeg",
+      "compressed_path": "./photos/People (focus)/Man_in_dusseldorf.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Man_in_dusseldorf.placeholder.jpeg"
+    },
+    {
+      "width": 1998,
+      "height": 1571,
+      "path": "./photos/People (focus)/dog_walker.jpeg",
+      "compressed_path": "./photos/People (focus)/dog_walker.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/dog_walker.placeholder.jpeg"
+    },
+    {
+      "width": 2306,
+      "height": 1364,
+      "path": "./photos/People (focus)/Womens_in_chongqing.jpeg",
+      "compressed_path": "./photos/People (focus)/Womens_in_chongqing.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Womens_in_chongqing.placeholder.jpeg"
+    },
+    {
+      "width": 2122,
+      "height": 1481,
+      "path": "./photos/People (focus)/Man_in_iceland.jpeg",
+      "compressed_path": "./photos/People (focus)/Man_in_iceland.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Man_in_iceland.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People (focus)/Girl_in_trollheimen.jpeg",
+      "compressed_path": "./photos/People (focus)/Girl_in_trollheimen.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Girl_in_trollheimen.placeholder.jpeg"
+    },
+    {
+      "width": 2093,
+      "height": 1680,
+      "path": "./photos/People (focus)/Family_in_da_nang.jpeg",
+      "compressed_path": "./photos/People (focus)/Family_in_da_nang.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Family_in_da_nang.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People (focus)/Girl_in_dazu.jpeg",
+      "compressed_path": "./photos/People (focus)/Girl_in_dazu.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Girl_in_dazu.placeholder.jpeg"
+    },
+    {
+      "width": 2068,
+      "height": 1519,
+      "path": "./photos/People (focus)/Flagbearer_in_florence.jpeg",
+      "compressed_path": "./photos/People (focus)/Flagbearer_in_florence.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Flagbearer_in_florence.placeholder.jpeg"
+    },
+    {
+      "width": 2020,
+      "height": 1555,
+      "path": "./photos/People (focus)/Man_in_olson.jpeg",
+      "compressed_path": "./photos/People (focus)/Man_in_olson.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Man_in_olson.placeholder.jpeg"
+    },
+    {
+      "width": 2660,
+      "height": 1182,
+      "path": "./photos/People (focus)/People_in_redwood_national_park.jpeg",
+      "compressed_path": "./photos/People (focus)/People_in_redwood_national_park.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/People_in_redwood_national_park.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People (focus)/Men_in_chengdu.jpeg",
+      "compressed_path": "./photos/People (focus)/Men_in_chengdu.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Men_in_chengdu.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People (focus)/Man_japan_temple.jpeg",
+      "compressed_path": "./photos/People (focus)/Man_japan_temple.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Man_japan_temple.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People (focus)/Woman_in_oslo_library.jpeg",
+      "compressed_path": "./photos/People (focus)/Woman_in_oslo_library.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Woman_in_oslo_library.placeholder.jpeg"
+    },
+    {
+      "width": 2170,
+      "height": 1448,
+      "path": "./photos/People (focus)/Sailors_in_florence.jpeg",
+      "compressed_path": "./photos/People (focus)/Sailors_in_florence.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Sailors_in_florence.placeholder.jpeg"
+    },
+    {
+      "width": 2270,
+      "height": 1383,
+      "path": "./photos/People (focus)/Sisters_in_venice.jpeg",
+      "compressed_path": "./photos/People (focus)/Sisters_in_venice.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Sisters_in_venice.placeholder.jpeg"
+    },
+    {
+      "width": 2016,
+      "height": 1560,
+      "path": "./photos/People (focus)/Men_in_san_francisco.jpeg",
+      "compressed_path": "./photos/People (focus)/Men_in_san_francisco.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Men_in_san_francisco.placeholder.jpeg"
+    },
+    {
+      "width": 2414,
+      "height": 1304,
+      "path": "./photos/People (focus)/Skier_in_lift.jpeg",
+      "compressed_path": "./photos/People (focus)/Skier_in_lift.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Skier_in_lift.placeholder.jpeg"
+    },
+    {
+      "width": 2268,
+      "height": 1385,
+      "path": "./photos/People (focus)/Painter_san_francisco.jpeg",
+      "compressed_path": "./photos/People (focus)/Painter_san_francisco.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Painter_san_francisco.placeholder.jpeg"
+    },
+    {
+      "width": 2234,
+      "height": 1408,
+      "path": "./photos/People (focus)/Singer_san_francisco.jpeg",
+      "compressed_path": "./photos/People (focus)/Singer_san_francisco.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Singer_san_francisco.placeholder.jpeg"
+    },
+    {
+      "width": 2360,
+      "height": 1331,
+      "path": "./photos/People (focus)/People_on_rock_pinnacles_park.jpeg",
+      "compressed_path": "./photos/People (focus)/People_on_rock_pinnacles_park.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/People_on_rock_pinnacles_park.placeholder.jpeg"
+    },
+    {
+      "width": 1941,
+      "height": 1465,
+      "path": "./photos/People (focus)/Footballer_in_ainsa.jpeg",
+      "compressed_path": "./photos/People (focus)/Footballer_in_ainsa.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/People (focus)/Footballer_in_ainsa.placeholder.jpeg"
     },
     {
       "width": 2240,
       "height": 1405,
-      "path": "./photos/People/Women_in_hue.jpeg",
-      "compressed_path": "./photos/People/Women_in_hue.min.jpeg",
+      "path": "./photos/People (focus)/Women_in_hue.jpeg",
+      "compressed_path": "./photos/People (focus)/Women_in_hue.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Women_in_hue.placeholder.jpeg"
+      "placeholder_path": "./photos/People (focus)/Women_in_hue.placeholder.jpeg"
     },
     {
       "width": 2240,
       "height": 1404,
-      "path": "./photos/People/Sisters_in_krabi.jpeg",
-      "compressed_path": "./photos/People/Sisters_in_krabi.min.jpeg",
+      "path": "./photos/People (focus)/Sisters_in_krabi.jpeg",
+      "compressed_path": "./photos/People (focus)/Sisters_in_krabi.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/People/Sisters_in_krabi.placeholder.jpeg"
+      "placeholder_path": "./photos/People (focus)/Sisters_in_krabi.placeholder.jpeg"
     }
   ],
   "Plants": [
