@@ -325,14 +325,6 @@
       "placeholder_path": "./photos/2 - People (focus)/Men_in_chengdu.placeholder.jpeg"
     },
     {
-      "width": 2360,
-      "height": 1331,
-      "path": "./photos/2 - People (focus)/Woman_in_oslo_library.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Woman_in_oslo_library.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Woman_in_oslo_library.placeholder.jpeg"
-    },
-    {
       "width": 2170,
       "height": 1448,
       "path": "./photos/2 - People (focus)/Sailors_in_florence.jpeg",
@@ -355,14 +347,6 @@
       "compressed_path": "./photos/2 - People (focus)/Singer_san_francisco.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/2 - People (focus)/Singer_san_francisco.placeholder.jpeg"
-    },
-    {
-      "width": 1941,
-      "height": 1465,
-      "path": "./photos/2 - People (focus)/Footballer_in_ainsa.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Footballer_in_ainsa.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Footballer_in_ainsa.placeholder.jpeg"
     },
     {
       "width": 2240,
