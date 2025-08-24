@@ -447,14 +447,6 @@
       "placeholder_path": "./photos/People/Girls_in_nara.placeholder.jpeg"
     },
     {
-      "width": 2188,
-      "height": 1436,
-      "path": "./photos/People/Skier_in_beitostolen.jpeg",
-      "compressed_path": "./photos/People/Skier_in_beitostolen.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Skier_in_beitostolen.placeholder.jpeg"
-    },
-    {
       "width": 2360,
       "height": 1331,
       "path": "./photos/People/Artists_in_trondheim.jpeg",
@@ -743,14 +735,6 @@
       "placeholder_path": "./photos/People/Men_in_san_francisco.placeholder.jpeg"
     },
     {
-      "width": 2098,
-      "height": 1496,
-      "path": "./photos/People/Friend_in_forest.jpeg",
-      "compressed_path": "./photos/People/Friend_in_forest.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Friend_in_forest.placeholder.jpeg"
-    },
-    {
       "width": 1822,
       "height": 1724,
       "path": "./photos/People/People_in_kyoto.jpeg",
@@ -781,14 +765,6 @@
       "compressed_path": "./photos/People/Painter_san_francisco.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/People/Painter_san_francisco.placeholder.jpeg"
-    },
-    {
-      "width": 2248,
-      "height": 1399,
-      "path": "./photos/People/Swimmers_in_oslo_2.jpeg",
-      "compressed_path": "./photos/People/Swimmers_in_oslo_2.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Swimmers_in_oslo_2.placeholder.jpeg"
     },
     {
       "width": 2234,
@@ -837,14 +813,6 @@
       "compressed_path": "./photos/People/Sisters_in_krabi.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/People/Sisters_in_krabi.placeholder.jpeg"
-    },
-    {
-      "width": 2116,
-      "height": 1485,
-      "path": "./photos/People/Sisters_sopot.jpeg",
-      "compressed_path": "./photos/People/Sisters_sopot.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/Sisters_sopot.placeholder.jpeg"
     }
   ],
   "Plants": [
