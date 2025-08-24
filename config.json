@@ -309,14 +309,6 @@
       "placeholder_path": "./photos/2 - People (focus)/dog_walker.placeholder.jpeg"
     },
     {
-      "width": 2306,
-      "height": 1364,
-      "path": "./photos/2 - People (focus)/Womens_in_chongqing.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Womens_in_chongqing.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Womens_in_chongqing.placeholder.jpeg"
-    },
-    {
       "width": 2122,
       "height": 1481,
       "path": "./photos/2 - People (focus)/Man_in_iceland.jpeg",
@@ -331,14 +323,6 @@
       "compressed_path": "./photos/2 - People (focus)/Girl_in_trollheimen.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/2 - People (focus)/Girl_in_trollheimen.placeholder.jpeg"
-    },
-    {
-      "width": 2093,
-      "height": 1680,
-      "path": "./photos/2 - People (focus)/Family_in_da_nang.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Family_in_da_nang.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Family_in_da_nang.placeholder.jpeg"
     },
     {
       "width": 2360,
@@ -375,14 +359,6 @@
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/2 - People (focus)/Man_japan_temple.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Man_japan_temple.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Man_japan_temple.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
       "path": "./photos/2 - People (focus)/Woman_in_oslo_library.jpeg",
       "compressed_path": "./photos/2 - People (focus)/Woman_in_oslo_library.min.jpeg",
       "compressed": false,
@@ -395,14 +371,6 @@
       "compressed_path": "./photos/2 - People (focus)/Sailors_in_florence.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/2 - People (focus)/Sailors_in_florence.placeholder.jpeg"
-    },
-    {
-      "width": 2016,
-      "height": 1560,
-      "path": "./photos/2 - People (focus)/Men_in_san_francisco.jpeg",
-      "compressed_path": "./photos/2 - People (focus)/Men_in_san_francisco.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2 - People (focus)/Men_in_san_francisco.placeholder.jpeg"
     },
     {
       "width": 2268,
