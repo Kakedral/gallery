@@ -69,14 +69,6 @@
     {
       "width": 2360,
       "height": 1331,
-      "path": "./photos/1 - Landmarks/Path_in_gaztelugatxe.jpeg",
-      "compressed_path": "./photos/1 - Landmarks/Path_in_gaztelugatxe.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/1 - Landmarks/Path_in_gaztelugatxe.placeholder.jpeg"
-    },
-    {
-      "width": 2360,
-      "height": 1331,
       "path": "./photos/1 - Landmarks/Temple_in_nanjing.jpeg",
       "compressed_path": "./photos/1 - Landmarks/Temple_in_nanjing.min.jpeg",
       "compressed": false,
@@ -97,14 +89,6 @@
       "compressed_path": "./photos/1 - Landmarks/Statues_in_nanjing.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/1 - Landmarks/Statues_in_nanjing.placeholder.jpeg"
-    },
-    {
-      "width": 2371,
-      "height": 1391,
-      "path": "./photos/1 - Landmarks/Wind_farms_belgium.jpeg",
-      "compressed_path": "./photos/1 - Landmarks/Wind_farms_belgium.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/1 - Landmarks/Wind_farms_belgium.placeholder.jpeg"
     },
     {
       "width": 3120,
@@ -145,14 +129,6 @@
       "compressed_path": "./photos/1 - Landmarks/Shanghai_line.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/1 - Landmarks/Shanghai_line.placeholder.jpeg"
-    },
-    {
-      "width": 2570,
-      "height": 1223,
-      "path": "./photos/1 - Landmarks/Islands_near_tustna.jpeg",
-      "compressed_path": "./photos/1 - Landmarks/Islands_near_tustna.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/1 - Landmarks/Islands_near_tustna.placeholder.jpeg"
     },
     {
       "width": 2050,
